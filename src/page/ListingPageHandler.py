@@ -5,6 +5,7 @@ import cloudscraper
 from bs4 import BeautifulSoup, Tag
 from cloudscraper import CloudScraper
 from requests import Response
+from ..dbconnector.dBConnector import SQLiteConnector
 
 
 class ListingPageHandler:
@@ -20,7 +21,6 @@ class ListingPageHandler:
         if result == [] or result is None:
             return self.get_items()
         return result
-
 
     def __get_items_data_pretty(self) -> List[Tuple]:
         scraper: CloudScraper = cloudscraper.create_scraper()
@@ -52,5 +52,7 @@ class ListingPageHandler:
                 area: str = spans.select('.re__card-config-area')[0].text
             except IndexError:
                 area: str = None
-            result.append((title, price, price_per_m2, area, date))
+
+            SQLiteConnector().insert_bds_data(title, price, price_per_m2, area, date)
+            print('inserted this into db', title, price, price_per_m2, area, date)
         return result
