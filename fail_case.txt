@@ -1,0 +1,2777 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="preconnect" href="https://staticfile.batdongsan.com.vn" />
+    <link rel="dns-prefetch" href="https://staticfile.batdongsan.com.vn" />
+    <link rel="preconnect" href="https://file4.batdongsan.com.vn" />
+    <link rel="dns-prefetch" href="https://file4.batdongsan.com.vn" />
+
+<!-- Google Optimize (async) -->
+<script async src="https://www.googleoptimize.com/optimize.js?id=GTM-NS3Q9HQ" type="cbbb4fa03f49c1afa13ef0bf-text/javascript"></script>
+
+
+
+
+
+        <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+            window.unlFeatures = [{"feature":"Adtech-14_CustomAds","variant":""},{"feature":"Adtech-14_SponsoredListingAds","variant":""},{"feature":"Adtech-1_Mobile_SRP_MastheadBanner","variant":""},{"feature":"adtech-1_gam_integration","variant":""},{"feature":"Adtech-14_PremiumAds","variant":""},{"feature":"cplus-5204_srp-traffic","variant":"origin"},{"feature":"CPLUS-5199-call-new-k8s-projectnet-public-api","variant":"origin"},{"feature":"cplus-5215_search_include_sub_project","variant":"origin"}];
+        </script>
+
+
+<script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    
+    var data = {
+                'event': 'pageInfo',
+                'cat': '324','dtk': 'null',
+                'ite': '',
+                'pag': '275',
+                'cit': 'SG',
+                'dis': '59',
+                'war': 'null',
+                'str': 'null',
+                'pro': '2667',
+                'pri': 'null',
+                'mip': 'null',
+                'map': 'null',
+                'are': 'null',
+                'mia': 'null',
+                'maa': 'null',
+                'dir': 'null',
+                'rom': 'null',
+                'unl': window.unlFeatures,
+            };;
+
+    window.dataLayer.push(data);
+</script>
+
+<!-- Google Tag Manager -->
+<script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-MMVJT5G');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3729099-6" type="cbbb4fa03f49c1afa13ef0bf-text/javascript"></script>
+<script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-3729099-6');
+</script>
+<!-- End Global site tag (gtag.js) - Google Analytics -->
+<!-- End Google Tag Manager -->
+<script data-ad-client="ca-pub-4522977639867868" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="cbbb4fa03f49c1afa13ef0bf-text/javascript"></script>
+<script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+    (function () {
+        var el = document.createElement('script');
+        el.async = true;
+        el.src = 'https://unpkg.com/web-vitals/dist/web-vitals.umd.js';
+
+        var f = document.getElementsByTagName('script')[0];
+        f.parentNode.insertBefore(el, f);
+    })();
+</script>
+    
+    
+        <link href="https://staticfile.batdongsan.com.vn/images/logo/favicon_redesign_xl_1.ico" rel="shortcut icon" type="image/x-icon" />
+    
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="format-detection" content="telephone=yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta http-equiv="audience" content="general">
+    <meta name="resource-type" content="document">
+    <meta name="abstract" content="Thông tin nhà đất Việt Nam">
+    <meta name="classification" content="Bất động sản Việt Nam">
+    <meta name="area" content="Nhà đất và bất động sản">
+    <meta name="placename" content="Việt Nam">
+    <meta name="author" content="Batdongsan.com.vn">
+    <meta name="copyright" content="©2007 Batdongsan.com.vn">
+    <meta name="owner" content="Batdongsan.com.vn">
+    <meta name="generator" content="Công ty Cổ phần PropertyGuru Việt Nam">
+    <meta name="distribution" content="Global">
+    <meta name="revisit-after" content="1 days">
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    
+
+        <meta name="robots" content="index,follow" />
+    <meta name ='keywords' content = 'Mua, bán, chung, cư, Căn, hộ, Hoàng, Quốc, Việt' />
+<meta name ='description' content = 'Mua b&#225;n chung cư Căn hộ Ho&#224;ng Quốc Việt gi&#225; rẻ, vị tr&#237; đẹp tại Quận 7, Hồ Ch&#237; Minh. B&#225;n căn hộ chung cư dự &#225;n Căn hộ Ho&#224;ng Quốc Việt từ 2 đến 3 ph&#242;ng ngủ, nhiều ưu đ&#227;i từ chủ đầu tư, cập nhật đủ th&#244;ng tin tại Batdongsan.com.vn' />
+<title>Mua b&#225;n căn hộ chung cư Căn hộ Ho&#224;ng Quốc Việt, Quận 7, T9/2022 | Gi&#225; rẻ, vị tr&#237; đẹp</title>
+<link rel="alternate" href="https://m.batdongsan.com.vn/ban-can-ho-chung-cu-can-ho-hoang-quoc-viet" media="only screen and (max-width: 640px)"><link rel="alternate" href="https://m.batdongsan.com.vn/ban-can-ho-chung-cu-can-ho-hoang-quoc-viet" media="handheld"><meta property="fb:app_id" content="302507473246792"><meta property="og:title" content="Mua b&#225;n căn hộ chung cư Căn hộ Ho&#224;ng Quốc Việt, Quận 7, T9/2022 | Gi&#225; rẻ, vị tr&#237; đẹp"><meta property="og:description" content="Mua b&#225;n chung cư Căn hộ Ho&#224;ng Quốc Việt gi&#225; rẻ, vị tr&#237; đẹp tại Quận 7, Hồ Ch&#237; Minh. B&#225;n căn hộ chung cư dự &#225;n Căn hộ Ho&#224;ng Quốc Việt từ 2 đến 3 ph&#242;ng ngủ, nhiều ưu đ&#227;i từ chủ đầu tư, cập nhật đủ th&#244;ng tin tại Batdongsan.com.vn"><meta property="og:image" content="https://file4.batdongsan.com.vn/crop/600x315/2022/08/10/20220810120925-f6cb_wm.jpg"><meta property="og:image:width" content="600"><meta property="og:image:height" content="315"><meta property="og:type" content="website"><meta property="og:url" content="https://batdongsan.com.vn/ban-can-ho-chung-cu-can-ho-hoang-quoc-viet"><link rel="canonical" href="https://batdongsan.com.vn/ban-can-ho-chung-cu-can-ho-hoang-quoc-viet?sortValue=1">    
+    
+    
+        <link rel="preload" href="https://staticfile.batdongsan.com.vn/images/logo/h-logo.svg" as="image" type="image/svg+xml" />
+    
+    
+    
+    
+    
+    <link rel="stylesheet" href="https://staticfile.batdongsan.com.vn/css/binnova/fontRoboto.min.css" />
+    <link rel="stylesheet" href="https://staticfile.batdongsan.com.vn/js/jquery-ui.min.css" />
+    
+    
+        <link rel="stylesheet" href="https://staticfile.batdongsan.com.vn/css/wap/filestatic.ver821b7153.msvbds.layout.min.css" />
+    
+    
+        
+        
+            <link rel="stylesheet" href="https://staticfile.batdongsan.com.vn/css/wap/filestatic.ver821b7153.msvbds.filter-search.min.css" />
+        
+        
+    
+        <link rel="stylesheet" href="https://staticfile.batdongsan.com.vn/lib/jquery-swiper/css/swiper.min.css" />
+        
+        
+            <link rel="stylesheet" href="https://staticfile.batdongsan.com.vn/css/wap/filestatic.ver821b7153.msvbds.srp.min.css" />
+        
+        
+    
+
+    <script type="text/javascript" data-cfasync="false">
+        window.currentPageContext = {"currentPage":275,"cateId":324,"cityCode":"SG","districtId":59};
+    </script>
+    <script type="text/javascript" src="https://staticfile.batdongsan.com.vn/js/filestatic.ver8.msvbds.speedup.min.js" async="" data-cfasync="false"></script>
+    <script type="text/javascript" src="https://staticfile.batdongsan.com.vn/js/Common/filestatic.ver3.msvbds.Common.CacheHelper.min.js" async="" data-cfasync="false"></script>
+    <script type="text/javascript" src="https://staticfile.batdongsan.com.vn/js/Common/filestatic.ver2.msvbds.Common.State.min.js" async="" data-cfasync="false"></script>
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" type="cbbb4fa03f49c1afa13ef0bf-text/javascript"></script>
+<script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+    window.googletag = window.googletag || { cmd: [] };
+</script><script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body id="search" class="re__pushmenu-push re__index re__header-filter  ">
+
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMVJT5G"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+    <div id="staticDomain"
+         statsDomain="https://statistic.batdongsan.com.vn"
+         data-is-mobile="true"
+         data-fileimg="https://file4.batdongsan.com.vn"
+         data-web="https://batdongsan.com.vn"
+         data-wap="https://m.batdongsan.com.vn"
+         data-wapb2b="m.duan.batdongsan.com.vn"
+         data-api-router="/api"
+         data-msvrouter="/microservice-architecture-router-mobile"
+         data-msvrouter-personal="/microservice-architecture-router-personal"
+         data-cssServer="https://staticfile.batdongsan.com.vn"
+         data-oldsystem="https://batdongsan.com.vn"
+         data-content="https://batdongsan.com.vn"
+         data-mobile="true"
+         data-domainorigin="batdongsan.com.vn"
+         data-sug-api-consumer="https://suggestions.batdongsan.com.vn/suggest"
+         data-sug-api-b2b="https://suggestions.batdongsan.com.vn/suggest"
+         data-verify-token="c7a93640e1acd35ed4e6956e6f48f29c"
+         data-keymap="AIzaSyCg4HyabfReXQfgysV5XPG6YuAcrKLHfyw"
+         class="re__hide"></div>
+    <div id="page-params"
+         data-page-hint="srp"></div>
+    <div class="re__form-container form-container">
+        <div class="re__body body ">
+            <div class="re__slide-pane slide-pane">
+                    <div class="re__banner-sub-all-page">
+                        
+        <div id='sub-all-page-masthead' class="re__sub-all-page-masthead js__banner-responsive visible-hidden" data-size="[640, 320]"></div>
+
+                    </div>
+
+
+                <div class="re__bg-header">
+                    <header class="re__header re__noHome">
+                        <div class="re__container-sm">
+                            <div class="re__nav re__header-wap" id="naga">
+                                <a href="javascript:void(0)" id="nav_back" rel="nofollow" title="Danh mục" class="re__fleft re__back">
+                                    <div class="re__state-icon--md">
+                                        <i class="re__icon-arrow-left"></i>
+                                    </div>
+                                </a>
+                                    <h2>
+                                        <a href="https://m.batdongsan.com.vn" title="Nhà đất">
+                                            
+                                            
+                                                <img class="re__logo-wap" src="https://staticfile.batdongsan.com.vn/images/logo/h-logo.svg" error-image-src="https://staticfile.batdongsan.com.vn/images/logo/h-logo.png" alt="logo batdongsan.com.vn" title="Batdongsan.com.vn">
+                                            
+                                            
+                                            <span class="re__visual-hidden">Batdongsan.com.vn</span>
+                                        </a>
+                                    </h2>
+                                <a href="/tin-da-luu" id="saveList" rel="nofollow" title="Danh mục" class="re__fright re__save">
+                                    <div class="re__btn-content">
+                                        <div class="re__state-icon--md">
+                                            <i class="re__icon-heart"></i>
+                                        </div>
+                                        <span class="re__notification re__hide">
+                                            1
+                                        </span>
+                                    </div>
+                                </a>
+                                
+                                
+                                    <a href="javascript:void(0)" id="nav_list" rel="nofollow" title="Danh mục" class="re__fright re__menu lazyload"
+                                       data-func="initMenu();"
+                                       data-script="https://staticfile.batdongsan.com.vn/js/Mobile/LeftMenu/filestatic.ver8.msvbds.leftMenu.min.js">
+                                        <div class="re__btn-content">
+                                            <div class="re__state-icon--md">
+                                                <i class="re__icon-menu-hamburger"></i>
+                                            </div>
+                                            <span class="re__notification re__hide">
+                                                1
+                                            </span>
+                                        </div>
+                                    </a>
+                                
+                                
+                            </div>
+                            <div class="re__bg-pushmenu"></div>
+                            <div class="re__top-search re__search-wap">    
+    <div class="re__main js__btn-show-form-search">
+        <div class="re__search-input re__search-input-product re__not-noti">
+            <span class="re__search-btn js__search-btn">
+                <i class="re__icon-search"></i>
+            </span>
+            <input type="text" value="" placeholder="T&#xEC;m nhanh. VD: Vinhomes Central Park"/>
+            <span class="re__search-notification"></span>
+        </div>
+    </div>
+</div>
+    <div class="re__search-filter">
+        <div class="re__main">
+            <div class="re__select--sm active js__search-filter" data-type="sort" data-action="selected">
+                <span class="re__v-drop">
+                    Tin mới nhất
+                </span>
+            </div>
+            <div class="re__border-line"></div>
+            <div class="re__select--sm js__search-filter" data-type="location" data-action="submit" data-form="filter">
+                <span class="re__v-drop">
+                    Khu vực
+                </span>
+            </div>
+            <div class="re__select--sm js__search-filter" data-type="price" data-action="submit" data-form="filter">
+                <span class="re__v-drop">
+                    Mức giá
+                </span>
+            </div>
+            <div class="re__select--sm js__search-filter" data-type="area" data-action="submit" data-form="filter">
+                <span class="re__v-drop">
+                    Diện tích
+                </span>
+            </div>
+            <div class="re__select--sm js__search-filter" data-type="cate" data-action="submit" data-form="filter">
+                <span class="re__v-drop">
+                    Loại nhà đất
+                </span>
+            </div>
+            <div class="re__select--sm re__other js__search-filter" data-type="other" data-action="submit" data-form="filter">
+                <span class="re__v-drop">
+                    Khác <span class="re__count-other"></span>
+                </span>
+            </div>
+        </div>
+        <div class="re__tooltip-filter-search js__tooltip-filter-search active">
+            <div class="title">Tính năng mới</div>
+            <div class="content">Cho phép sắp xếp và lọc kết quả theo nhiều tiêu chí tại đây</div>
+        </div>
+    </div>
+
+                        </div>
+                        <div class="re__clearfix"></div>
+                        <div class="re__scroll-top" id="to_top" style="display: block;">
+                            <a id="gotop">
+                                <i class="re__icon-top--lg">
+                                    <span class="path1"></span><span class="path2"></span>
+                                </i>
+                            </a>
+                        </div>
+                    </header>
+                </div>
+                <div class="re__slide-body slide-body">
+                    <div class="re__sr-content sr-content new-layout">
+                        
+
+
+    <div class="re__list-item sr-content new-layout" ct="2" ac="2" cid="0">
+        
+<div class="re__breadcrumb lazyload" data-func="new FrontEnd.Product.Breadcrumbs({});" data-script="https://staticfile.batdongsan.com.vn/js/Mobile/Product/filestatic.ver821b7153.msvbds.FrontEnd.Product.Breadcrumbs.min.js">
+    <span class="re__main-breadcrumb-container js__main-breadcrumb-container">
+        <a class="re__link-se re__link-se--previous" href="/ban-can-ho-chung-cu" title="Bán căn hộ chung cư tại Việt Nam" level="1" >Bán</a><span> / </span><a class="re__link-se re__link-se--previous" href="/ban-can-ho-chung-cu-tp-hcm" title="Bán căn hộ chung cư tại Hồ Chí Minh" level="2" >Hồ Chí Minh</a><span> / </span><a class="re__link-se re__link-se--previous" href="/ban-can-ho-chung-cu-quan-7" title="Bán căn hộ chung cư tại Quận 7" level="3" >Quận 7</a><span> / </span><a class="re__link-se re__link-se--previous" href="/ban-can-ho-chung-cu-can-ho-hoang-quoc-viet" title="Bán căn hộ chung cư tại Căn hộ Hoàng Quốc Việt" level="4" class="re__link-se--actived">Căn hộ chung cư tại Căn hộ Hoàng Quốc Việt</a>
+    </span>
+    &nbsp;
+</div>
+
+    <script type="application/ld+json">
+        {"@context":"https://schema.org/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Trang chủ","item":"https://m.batdongsan.com.vn"},{"@type":"ListItem","position":2,"name":"Bán","item":"https://m.batdongsan.com.vn/ban-can-ho-chung-cu"},{"@type":"ListItem","position":3,"name":"Hồ Chí Minh","item":"https://m.batdongsan.com.vn/ban-can-ho-chung-cu-tp-hcm"},{"@type":"ListItem","position":4,"name":"Quận 7","item":"https://m.batdongsan.com.vn/ban-can-ho-chung-cu-quan-7"},{"@type":"ListItem","position":5,"name":"Căn hộ chung cư tại Căn hộ Hoàng Quốc Việt","item":"https://m.batdongsan.com.vn/ban-can-ho-chung-cu-can-ho-hoang-quoc-viet"}]}
+    </script>
+
+    <div class="re__tag-list tag-list--empty"></div>
+    <div class="re__title-item">
+        <h1 class="re__content" id="lblListTitle">
+B&#xE1;n c&#x103;n h&#x1ED9; chung c&#x1B0; t&#x1EA1;i  C&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t        </h1>
+    </div>
+        <div impressions="[{&quot;id&quot;:&quot;pr34787349&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:1,&quot;dimension1&quot;:&quot;active&quot;},{&quot;id&quot;:&quot;pr34166693&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:2,&quot;dimension1&quot;:&quot;active&quot;},{&quot;id&quot;:&quot;pr32588824&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:3,&quot;dimension1&quot;:&quot;active&quot;},{&quot;id&quot;:&quot;pr34912875&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:4,&quot;dimension1&quot;:&quot;active&quot;},{&quot;id&quot;:&quot;pr34547405&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:5,&quot;dimension1&quot;:&quot;expired&quot;},{&quot;id&quot;:&quot;pr33952571&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:6,&quot;dimension1&quot;:&quot;expired&quot;},{&quot;id&quot;:&quot;pr34458775&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:7,&quot;dimension1&quot;:&quot;expired&quot;},{&quot;id&quot;:&quot;pr34200258&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:8,&quot;dimension1&quot;:&quot;expired&quot;},{&quot;id&quot;:&quot;pr30034106&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:9,&quot;dimension1&quot;:&quot;expired&quot;},{&quot;id&quot;:&quot;pr33812801&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:10,&quot;dimension1&quot;:&quot;expired&quot;},{&quot;id&quot;:&quot;pr32918948&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:11,&quot;dimension1&quot;:&quot;expired&quot;},{&quot;id&quot;:&quot;pr31252135&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:12,&quot;dimension1&quot;:&quot;expired&quot;},{&quot;id&quot;:&quot;pr33667064&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:13,&quot;dimension1&quot;:&quot;expired&quot;},{&quot;id&quot;:&quot;pr33667001&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:14,&quot;dimension1&quot;:&quot;expired&quot;},{&quot;id&quot;:&quot;pr33398421&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:15,&quot;dimension1&quot;:&quot;expired&quot;},{&quot;id&quot;:&quot;pr32895769&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:16,&quot;dimension1&quot;:&quot;expired&quot;},{&quot;id&quot;:&quot;pr30977495&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:17,&quot;dimension1&quot;:&quot;expired&quot;},{&quot;id&quot;:&quot;pr33578362&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:18,&quot;dimension1&quot;:&quot;expired&quot;},{&quot;id&quot;:&quot;pr33596013&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:19,&quot;dimension1&quot;:&quot;expired&quot;},{&quot;id&quot;:&quot;pr32268235&quot;,&quot;list&quot;:&quot;SRP - Scope&quot;,&quot;position&quot;:20,&quot;dimension1&quot;:&quot;expired&quot;}]">
+
+        </div>
+        <div class="re__title-item">
+            <div class="re__count-item count-item--filter-search">
+Hiện có <span id='count-number'>20</span> kết quả.            </div>
+        </div>
+        <div id="broker-product-list">
+            <div class="re__product-list js__product-listing" id="product-list-wap">
+                <div class="js__page-0">
+
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="313732"
+     prid="34787349"
+     vtp="vipFive"
+     ipos="1"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=1,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/-ang-quan-7-2pn-2wc-nha-full-noi-that-gia-2-3ty-lh-0901311178-pr34787349" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Căn hộ Hoàng Quốc Việt - Quận 7 - 2PN - 2WC nhà full nội thất. Giá 2.3tỷ LH: 0901311178</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <script type="text/javascript" style="display:none">
+//<![CDATA[
+window.__mirage2 = {petok:"0734c26ba23fc9827b792b4eb6093e4fd56f223d-1661687462-1800"};
+//]]>
+</script>
+<script type="text/javascript" src="https://ajax.cloudflare.com/cdn-cgi/scripts/04b3eb47/cloudflare-static/mirage2.min.js"></script>
+<img alt="C&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t - Qu&#x1EAD;n 7 - 2PN - 2WC nh&#xE0; full n&#x1ED9;i th&#x1EA5;t. Gi&#xE1; 2.3t&#x1EF7; LH: 0901311178" data-cfsrc="https://file4.batdongsan.com.vn/crop/200x140/2022/08/10/20220810120925-f6cb_wm.jpg" style="display:none;visibility:hidden;"><noscript><img alt="C&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t - Qu&#x1EAD;n 7 - 2PN - 2WC nh&#xE0; full n&#x1ED9;i th&#x1EA5;t. Gi&#xE1; 2.3t&#x1EF7; LH: 0901311178" src="https://file4.batdongsan.com.vn/crop/200x140/2022/08/10/20220810120925-f6cb_wm.jpg"></noscript>
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>7</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">2.3 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">60 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            3 ng&#xE0;y tr&#x1B0;&#x1EDB;c
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:34787349,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2022/08/10/20220810120925-f6cb_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;C&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t - Qu&#x1EAD;n 7 - 2PN - 2WC nh&#xE0; full n&#x1ED9;i th&#x1EA5;t. Gi&#xE1; 2.3t&#x1EF7; LH: 0901311178&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/-ang-quan-7-2pn-2wc-nha-full-noi-that-gia-2-3ty-lh-0901311178-pr34787349&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="469935"
+     prid="34166693"
+     vtp="vipFive"
+     ipos="2"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=2,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/-ang-quan-7-2-pn-2toilet-noi-that-co-ban-co-so-ng-2-25-ty-lh-0906835638-png-pr34166693" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Căn hộ Hoàng Quốc Việt Quận 7 2PN 2 toilet, nội thất cơ bản có sổ hồng 2.25 tỷ, LH 0906835638 Phong</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="C&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t Qu&#x1EAD;n 7 2PN 2 toilet, n&#x1ED9;i th&#x1EA5;t c&#x1A1; b&#x1EA3;n c&#xF3; s&#x1ED5; h&#x1ED3;ng 2.25 t&#x1EF7;, LH 0906835638 Phong" data-cfsrc="https://file4.batdongsan.com.vn/crop/200x140/2022/06/22/20220622091524-d9aa_wm.jpg" style="display:none;visibility:hidden;"><noscript><img alt="C&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t Qu&#x1EAD;n 7 2PN 2 toilet, n&#x1ED9;i th&#x1EA5;t c&#x1A1; b&#x1EA3;n c&#xF3; s&#x1ED5; h&#x1ED3;ng 2.25 t&#x1EF7;, LH 0906835638 Phong" src="https://file4.batdongsan.com.vn/crop/200x140/2022/06/22/20220622091524-d9aa_wm.jpg"></noscript>
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>6</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">2.25 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">60 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            3 ng&#xE0;y tr&#x1B0;&#x1EDB;c
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:34166693,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2022/06/22/20220622091524-d9aa_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;C&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t Qu&#x1EAD;n 7 2PN 2 toilet, n&#x1ED9;i th&#x1EA5;t c&#x1A1; b&#x1EA3;n c&#xF3; s&#x1ED5; h&#x1ED3;ng 2.25 t&#x1EF7;, LH 0906835638 Phong&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/-ang-quan-7-2-pn-2toilet-noi-that-co-ban-co-so-ng-2-25-ty-lh-0906835638-png-pr34166693&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="1423950"
+     prid="32588824"
+     vtp="vipFive"
+     ipos="3"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=3,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-ang-55m2-gia-1-950-ty-view-song-pr32588824" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Bán căn hộ Hoàng Quốc Việt - căn 55m2 giá 2.050 tỷ cơ bản</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="B&#xE1;n c&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t - c&#x103;n 55m2 gi&#xE1; 2.050 t&#x1EF7; c&#x1A1; b&#x1EA3;n" class="lazyload" data-src="https://file4.batdongsan.com.vn/crop/200x140/2022/08/23/20220823161654-702b_wm.jpg">
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>6</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">2.05 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">55 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            5 ng&#xE0;y tr&#x1B0;&#x1EDB;c
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:32588824,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2022/08/23/20220823161654-702b_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;B&#xE1;n c&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t - c&#x103;n 55m2 gi&#xE1; 2.050 t&#x1EF7; c&#x1A1; b&#x1EA3;n&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-ang-55m2-gia-1-950-ty-view-song-pr32588824&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="185288"
+     prid="34912875"
+     vtp="vipFive"
+     ipos="4"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=4,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/-ang-55m2-2pn-gia-2-05-ti-pr34912875" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Căn hộ Hoàng Quốc Việt - 55m2 2PN - Giá 2,05 tỷ</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="C&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t - 55m2 2PN - Gi&#xE1; 2,05 t&#x1EF7;" class="lazyload" data-src="https://file4.batdongsan.com.vn/crop/200x140/2022/08/22/20220822162706-d50f_wm.jpg">
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>7</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">2.05 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">55 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            6 ng&#xE0;y tr&#x1B0;&#x1EDB;c
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:34912875,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2022/08/22/20220822162706-d50f_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;C&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t - 55m2 2PN - Gi&#xE1; 2,05 t&#x1EF7;&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/-ang-55m2-2pn-gia-2-05-ti-pr34912875&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="693598"
+     prid="34547405"
+     vtp="vipFive"
+     ipos="5"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=5,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-goc-70m2-2pn-2wc-gia-2-550-ty-full-noi-that-lh-0939336696-pr34547405" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Bán căn góc 70m2 2PN, 2WC, giá 2,55 tỷ, full nội thất, LH My: 0939336696</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="B&#xE1;n c&#x103;n g&#xF3;c 70m2 2PN, 2WC, gi&#xE1; 2,55 t&#x1EF7;, full n&#x1ED9;i th&#x1EA5;t, LH My: 0939336696" class="lazyload" data-src="https://file4.batdongsan.com.vn/crop/200x140/2022/07/21/20220721162556-4825_wm.jpg">
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-play"></i>
+                            <i class="re__icon-image"></i><span>7</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">2.55 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">70 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            1 tu&#x1EA7;n tr&#x1B0;&#x1EDB;c
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:34547405,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2022/07/21/20220721162556-4825_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;B&#xE1;n c&#x103;n g&#xF3;c 70m2 2PN, 2WC, gi&#xE1; 2,55 t&#x1EF7;, full n&#x1ED9;i th&#x1EA5;t, LH My: 0939336696&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-goc-70m2-2pn-2wc-gia-2-550-ty-full-noi-that-lh-0939336696-pr34547405&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="693598"
+     prid="33952571"
+     vtp="vipFive"
+     ipos="6"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=6,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-goc-60m2-2pn-2wc-gia-2-350-ty-sh-lh-0939336696-pr33952571" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Bán căn góc 60m2 2PN 2WC giá 2.250 tỷ, SH LH My 0939336696</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="B&#xE1;n c&#x103;n g&#xF3;c 60m2 2PN 2WC gi&#xE1; 2.250 t&#x1EF7;, SH LH My 0939336696" class="lazyload" data-src="https://file4.batdongsan.com.vn/crop/200x140/2022/06/07/20220607101222-78a8_wm.jpg">
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>6</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">2.25 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">60 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            3 tu&#x1EA7;n tr&#x1B0;&#x1EDB;c
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:33952571,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2022/06/07/20220607101222-78a8_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;B&#xE1;n c&#x103;n g&#xF3;c 60m2 2PN 2WC gi&#xE1; 2.250 t&#x1EF7;, SH LH My 0939336696&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-goc-60m2-2pn-2wc-gia-2-350-ty-sh-lh-0939336696-pr33952571&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="470340"
+     prid="34458775"
+     vtp="vipFive"
+     ipos="7"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=7,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-ang-q7-goc-60m2-2pn-2wc-so-ng-gia-chi-2-3-ty-lh-0969-249-741-pr34458775" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Bán căn hộ Hoàng Quốc Việt Q7, căn góc 60m2 (2PN - 2WC), sổ hồng, giá chỉ 2,3 tỷ LH 0969.249.741</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="B&#xE1;n c&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t Q7, c&#x103;n g&#xF3;c 60m2 (2PN - 2WC), s&#x1ED5; h&#x1ED3;ng, gi&#xE1; ch&#x1EC9; 2,3 t&#x1EF7; LH 0969.249.741" class="lazyload" data-src="https://file4.batdongsan.com.vn/crop/200x140/2022/07/13/20220713134931-ae1d_wm.jpg">
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>5</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">2.3 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">60 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            20/07/2022
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:34458775,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2022/07/13/20220713134931-ae1d_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;B&#xE1;n c&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t Q7, c&#x103;n g&#xF3;c 60m2 (2PN - 2WC), s&#x1ED5; h&#x1ED3;ng, gi&#xE1; ch&#x1EC9; 2,3 t&#x1EF7; LH 0969.249.741&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-ang-q7-goc-60m2-2pn-2wc-so-ng-gia-chi-2-3-ty-lh-0969-249-741-pr34458775&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="470340"
+     prid="34200258"
+     vtp="vipFive"
+     ipos="8"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=8,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-ang-q7-54m2-2pn-1wc-gia-chi-2-ty-lh-0969-249-741-pr34200258" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Bán căn hộ Hoàng Quốc Việt Q7, 54m2 (2PN - 1WC) giá chỉ 2 tỷ, LH 0969.249.741</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="B&#xE1;n c&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t Q7, 54m2 (2PN - 1WC) gi&#xE1; ch&#x1EC9; 2 t&#x1EF7;, LH 0969.249.741" class="lazyload" data-src="https://file4.batdongsan.com.vn/crop/200x140/2022/06/24/20220624095752-847b_wm.jpg">
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>3</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">2 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">54 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            24/06/2022
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:34200258,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2022/06/24/20220624095752-847b_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;B&#xE1;n c&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t Q7, 54m2 (2PN - 1WC) gi&#xE1; ch&#x1EC9; 2 t&#x1EF7;, LH 0969.249.741&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-ang-q7-54m2-2pn-1wc-gia-chi-2-ty-lh-0969-249-741-pr34200258&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="750656"
+     prid="30034106"
+     vtp="vipFive"
+     ipos="9"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=9,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-ang-quan-7-gia-1-75-ty-2-png-ngu-pr30034106" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Bán căn hộ Officetel Hoàng Quốc Việt, Quận 7, giá 1.85 tỷ/căn, 2 phòng ngủ</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="B&#xE1;n c&#x103;n h&#x1ED9; Officetel Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t, Qu&#x1EAD;n 7, gi&#xE1; 1.85 t&#x1EF7;/c&#x103;n, 2 ph&#xF2;ng ng&#x1EE7;" class="lazyload" data-src="https://file4.batdongsan.com.vn/crop/200x140/2021/05/26/20210526161146-fbf1_wm.jpg">
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>5</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">1.85 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">54 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            20/06/2022
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:30034106,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2021/05/26/20210526161146-fbf1_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;B&#xE1;n c&#x103;n h&#x1ED9; Officetel Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t, Qu&#x1EAD;n 7, gi&#xE1; 1.85 t&#x1EF7;/c&#x103;n, 2 ph&#xF2;ng ng&#x1EE7;&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-ang-quan-7-gia-1-75-ty-2-png-ngu-pr30034106&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="107502"
+     prid="33812801"
+     vtp="vipFive"
+     ipos="10"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=10,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-ang-anh-thanh-binh-q7-dien-tich-92m2-2pn-2wc-gia-2-950-ty-pr33812801" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Bán căn hộ Hoàng Anh thanh Bình Q7, diện tích 92m2, 2PN 2WC giá 2.950 tỷ</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="B&#xE1;n c&#x103;n h&#x1ED9; Ho&#xE0;ng Anh thanh B&#xEC;nh Q7, di&#x1EC7;n t&#xED;ch 92m2, 2PN 2WC gi&#xE1; 2.950 t&#x1EF7;" class="lazyload" data-src="https://file4.batdongsan.com.vn/crop/200x140/2022/05/27/20220527101514-bd63_wm.jpg">
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>7</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">2.95 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">73 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            06/06/2022
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:33812801,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2022/05/27/20220527101514-bd63_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;B&#xE1;n c&#x103;n h&#x1ED9; Ho&#xE0;ng Anh thanh B&#xEC;nh Q7, di&#x1EC7;n t&#xED;ch 92m2, 2PN 2WC gi&#xE1; 2.950 t&#x1EF7;&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-ang-anh-thanh-binh-q7-dien-tich-92m2-2pn-2wc-gia-2-950-ty-pr33812801&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="693598"
+     prid="32918948"
+     vtp="vipFive"
+     ipos="11"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=11,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-view-song-cuc-hiem-gia-1-950-ty-55m2-2pn-full-noi-that-pr32918948" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Bán căn hộ view sông cực hiếm giá 1.950 tỷ 55m2 2PN full nội thất</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="B&#xE1;n c&#x103;n h&#x1ED9; view s&#xF4;ng c&#x1EF1;c hi&#x1EBF;m gi&#xE1; 1.950 t&#x1EF7; 55m2 2PN full n&#x1ED9;i th&#x1EA5;t" class="lazyload" data-src="https://file4.batdongsan.com.vn/crop/200x140/2022/03/25/20220325143926-b38a_wm.jpg">
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>6</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">1.95 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">55 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            21/05/2022
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:32918948,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2022/03/25/20220325143926-b38a_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;B&#xE1;n c&#x103;n h&#x1ED9; view s&#xF4;ng c&#x1EF1;c hi&#x1EBF;m gi&#xE1; 1.950 t&#x1EF7; 55m2 2PN full n&#x1ED9;i th&#x1EA5;t&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-view-song-cuc-hiem-gia-1-950-ty-55m2-2pn-full-noi-that-pr32918948&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="754460"
+     prid="31252135"
+     vtp="vipFive"
+     ipos="12"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=12,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/-ban-gap-hqv-q7-dt-70m2-2pn-2wc-tang-trung-shr-gia-2-3-ty-lh-0909904543-pr31252135" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Cần bán gấp căn hộ HQV Q7 DT 70m2 (2PN - 2WC) tầng trung, SHR giá 2,25 tỷ. LH 0909904543</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="C&#x1EA7;n b&#xE1;n g&#x1EA5;p c&#x103;n h&#x1ED9; HQV Q7 DT 70m2 (2PN - 2WC) t&#x1EA7;ng trung, SHR gi&#xE1; 2,25 t&#x1EF7;. LH 0909904543" class="lazyload" data-src="https://file4.batdongsan.com.vn/crop/200x140/2021/11/01/20211101170502-f249_wm.jpg">
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>6</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">2.25 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">70 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            17/05/2022
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:31252135,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2021/11/01/20211101170502-f249_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;C&#x1EA7;n b&#xE1;n g&#x1EA5;p c&#x103;n h&#x1ED9; HQV Q7 DT 70m2 (2PN - 2WC) t&#x1EA7;ng trung, SHR gi&#xE1; 2,25 t&#x1EF7;. LH 0909904543&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/-ban-gap-hqv-q7-dt-70m2-2pn-2wc-tang-trung-shr-gia-2-3-ty-lh-0909904543-pr31252135&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="1866322"
+     prid="33667064"
+     vtp="vipFive"
+     ipos="13"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=13,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/-ang-viet-pr33667064" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Căn hộ chung cư Hoàng Quốc Việt</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="C&#x103;n h&#x1ED9; chung c&#x1B0; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t" class="lazyload" data-src="https://file4.batdongsan.com.vn/crop/200x140/2022/05/17/20220517105613-a2d4_wm.jpg">
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>3</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">2.2 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">60 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            17/05/2022
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:33667064,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2022/05/17/20220517105613-a2d4_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;C&#x103;n h&#x1ED9; chung c&#x1B0; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/-ang-viet-pr33667064&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="1866322"
+     prid="33667001"
+     vtp="vipFive"
+     ipos="14"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=14,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/-ban-viet-pr33667001" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Cần bán chung cư Hoàng Quốc Việt</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="C&#x1EA7;n b&#xE1;n chung c&#x1B0; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t" class="lazyload" data-src="https://file4.batdongsan.com.vn/crop/200x140/2022/05/17/20220517105225-00e4_wm.jpg">
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>5</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">2.4 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">70 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            17/05/2022
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:33667001,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2022/05/17/20220517105225-00e4_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;C&#x1EA7;n b&#xE1;n chung c&#x1B0; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/-ban-viet-pr33667001&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="182976"
+     prid="33398421"
+     vtp="vipFive"
+     ipos="15"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=15,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-quan-7-60m2-2pn-so-ng-chi-2-2-ty-pr33398421" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Bán căn hộ Quận 7 60m2 2PN sổ hồng chỉ 2,2 tỷ</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="B&#xE1;n c&#x103;n h&#x1ED9; Qu&#x1EAD;n 7 60m2 2PN s&#x1ED5; h&#x1ED3;ng ch&#x1EC9; 2,2 t&#x1EF7;" class="lazyload" data-src="https://file4.batdongsan.com.vn/crop/200x140/2022/04/26/20220426105647-55b7_wm.jpg">
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>2</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">2.2 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">60 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            14/05/2022
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:33398421,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2022/04/26/20220426105647-55b7_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;B&#xE1;n c&#x103;n h&#x1ED9; Qu&#x1EAD;n 7 60m2 2PN s&#x1ED5; h&#x1ED3;ng ch&#x1EC9; 2,2 t&#x1EF7;&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-quan-7-60m2-2pn-so-ng-chi-2-2-ty-pr33398421&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="1423950"
+     prid="32895769"
+     vtp="vipFive"
+     ipos="16"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=16,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-ang-55m2-gia-1-950-ty-view-song-pr32895769" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Bán căn hộ Hoàng Quốc Việt - căn góc 70m2 giá 2.380 tỷ</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="B&#xE1;n c&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t - c&#x103;n g&#xF3;c 70m2 gi&#xE1; 2.380 t&#x1EF7;" class="lazyload" data-src="https://file4.batdongsan.com.vn/crop/200x140/2022/04/29/20220429092345-eefb_wm.jpg">
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>7</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">2.38 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">70 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            14/05/2022
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:32895769,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2022/04/29/20220429092345-eefb_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;B&#xE1;n c&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t - c&#x103;n g&#xF3;c 70m2 gi&#xE1; 2.380 t&#x1EF7;&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-ang-55m2-gia-1-950-ty-view-song-pr32895769&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="754460"
+     prid="30977495"
+     vtp="vipFive"
+     ipos="17"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=17,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-gap-ch-hqv-q7-gia-2-3-ty-full-nt-dt-70m2-2pn-2wc-tang-14-view-nha-pho-lh-0909904543-ms-lanh-pr30977495" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Bán gấp CH HQV Q7 giá 2,25 tỷ full NT DT 70m2 (2PN - 2WC) tầng 14 view đẹp LH 0909904543 Ms Lành</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="B&#xE1;n g&#x1EA5;p CH HQV Q7 gi&#xE1; 2,25 t&#x1EF7; full NT DT 70m2 (2PN - 2WC) t&#x1EA7;ng 14 view &#x111;&#x1EB9;p LH 0909904543 Ms L&#xE0;nh" class="lazyload" data-src="https://file4.batdongsan.com.vn/crop/200x140/2021/10/11/20211011110712-2ed0_wm.jpg">
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>5</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">2.25 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">70 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            12/05/2022
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:30977495,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2021/10/11/20211011110712-2ed0_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;B&#xE1;n g&#x1EA5;p CH HQV Q7 gi&#xE1; 2,25 t&#x1EF7; full NT DT 70m2 (2PN - 2WC) t&#x1EA7;ng 14 view &#x111;&#x1EB9;p LH 0909904543 Ms L&#xE0;nh&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-gap-ch-hqv-q7-gia-2-3-ty-full-nt-dt-70m2-2pn-2wc-tang-14-view-nha-pho-lh-0909904543-ms-lanh-pr30977495&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="313732"
+     prid="33578362"
+     vtp="vipFive"
+     ipos="18"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=18,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/-ang-quan-70m2-2png-ngu-goc-noi-that-cao-cap-gia-2-4ty-lh-0901311178-pr33578362" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Căn hộ Hoàng Quốc Việt Q7 -70m2- 2 phòng ngủ, căn góc - nội thất cao cấp, gía 2,4 tỷ. LH 0901311178</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="C&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t Q7 -70m2- 2 ph&#xF2;ng ng&#x1EE7;, c&#x103;n g&#xF3;c - n&#x1ED9;i th&#x1EA5;t cao c&#x1EA5;p, g&#xED;a 2,4 t&#x1EF7;. LH 0901311178" class="lazyload" data-src="https://file4.batdongsan.com.vn/crop/200x140/2022/05/10/20220510161439-768b_wm.jpg">
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>7</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">2.4 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">70 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            11/05/2022
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:33578362,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2022/05/10/20220510161439-768b_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;C&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t Q7 -70m2- 2 ph&#xF2;ng ng&#x1EE7;, c&#x103;n g&#xF3;c - n&#x1ED9;i th&#x1EA5;t cao c&#x1EA5;p, g&#xED;a 2,4 t&#x1EF7;. LH 0901311178&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/-ang-quan-70m2-2png-ngu-goc-noi-that-cao-cap-gia-2-4ty-lh-0901311178-pr33578362&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="1038190"
+     prid="33596013"
+     vtp="vipFive"
+     ipos="19"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=19,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/-ban-goc-lacasa-quan-7-tp-hcm-goc-92m2-pr33596013" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Cần bán căn góc chung cư Lacasa Hoàng Quốc Việt, Quận 7, TP HCM, căn góc 92m2</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="C&#x1EA7;n b&#xE1;n c&#x103;n g&#xF3;c chung c&#x1B0; Lacasa Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t, Qu&#x1EAD;n 7, TP HCM, c&#x103;n g&#xF3;c 92m2" class="lazyload" data-src="https://file4.batdongsan.com.vn/crop/200x140/2022/05/11/20220511164837-4284_wm.jpg">
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>8</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">2.95 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">92 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            11/05/2022
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:33596013,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2022/05/11/20220511164837-4284_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;C&#x1EA7;n b&#xE1;n c&#x103;n g&#xF3;c chung c&#x1B0; Lacasa Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t, Qu&#x1EAD;n 7, TP HCM, c&#x103;n g&#xF3;c 92m2&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/-ban-goc-lacasa-quan-7-tp-hcm-goc-92m2-pr33596013&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<div class="js__card js__card-wap re__card re__card-no-label re__vip-5 vip5"
+     uid="182976"
+     prid="32268235"
+     vtp="vipFive"
+     ipos="20"
+     pgno="1"
+     clo="srpg" tracking-id="navigate-srp-ldp" tracking-label="loc=SRP For Sale,ipos=20,pgno=1">
+    <a href="/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-ang-q7-70m2-2pn-so-ng-chi-2-250-ty-pr32268235" class="re__unreport">
+            <h3 class="re__card-title js__card-title-full">
+
+                <span class="js__card-title vipFive">Bán căn hộ Hoàng Quốc Việt Q7 70m2 2PN sổ hồng chỉ 2,250 tỷ</span>
+            </h3>
+        <div class="re__card-image js__card-image">
+                <img alt="B&#xE1;n c&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t Q7 70m2 2PN s&#x1ED5; h&#x1ED3;ng ch&#x1EC9; 2,250 t&#x1EF7;" class="lazyload" data-src="https://file4.batdongsan.com.vn/crop/200x140/2022/01/24/20220124100425-be38_wm.jpg">
+                <div class="re__card-image-feature">
+                    <div>
+                            <i class="re__icon-image"></i><span>2</span>
+                    </div>
+                </div>
+        </div>
+        <div class="re__card-info">
+            <div class="re__card-info-content">
+                <div class="re__card-config">
+                    <span class="re__card-config-price">2.25 t&#x1EF7;</span>
+                        <span class="re__card-config-dot">·</span><span class="re__card-config-area">70 m&#xB2;</span>
+                </div>
+                <div class="re__card-location">
+                    Qu&#x1EAD;n 7, H&#x1ED3; Ch&#xED; Minh
+                </div>
+                <div class="re__card-contact">
+                    <div class="re__card-published-info">
+                        <span class="re__card-published-info-published-at">
+                            11/05/2022
+                        </span>
+                    </div>
+                    <div class="re__card-contact-button">
+                        <span class="js__marking-product re__btn re__btn-se-border--sm re__btn-icon--sm"
+                              data-marked-product-info-as-json="{&quot;productId&quot;:32268235,&quot;avatarinfowap&quot;:&quot;https://file4.batdongsan.com.vn/crop/200x140/2022/01/24/20220124100425-be38_wm.jpg&quot;,&quot;vipType&quot;:5,&quot;title&quot;:&quot;B&#xE1;n c&#x103;n h&#x1ED9; Ho&#xE0;ng Qu&#x1ED1;c Vi&#x1EC7;t Q7 70m2 2PN s&#x1ED5; h&#x1ED3;ng ch&#x1EC9; 2,250 t&#x1EF7;&quot;,&quot;url&quot;:&quot;/ban-can-ho-chung-cu-duong-hoang-quoc-viet-phuong-phu-my-9-prj-can-ho-hoang-quoc-viet/ban-ang-q7-70m2-2pn-so-ng-chi-2-250-ty-pr32268235&quot;}"
+                              tracking-id="save-listing" tracking-label="loc=SRP For Sale">
+                            <i class="re__icon-heart--sm"></i>
+                            <i class="re__icon-heart-pressed--sm"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>                </div>
+            </div>
+            <div class="re__loading" style="margin: -10px 0px 15px 0px">
+                <img data-cfsrc="https://staticfile.batdongsan.com.vn/images/loading.gif" title="Đang tải" style="display:none;visibility:hidden;"><noscript><img src="https://staticfile.batdongsan.com.vn/images/loading.gif" title="Đang tải"></noscript>
+            </div>
+            <div class="tooltiptext hide">Đã sao chép</div>
+            <span class="re__hide" id="listing-page-info" data-total-page="1" data-page-index="1" data-page-load="1"></span>
+            <div class="re__clearfix"></div>
+            <div class="re__link-more re__hide" id="addMore">
+                <a tracking-id='more-listing-srp' href="javascript:void(0);" id="loadPage" class="re__btn re__btn-pr-solid--sm" data-srp="{&quot;PageSize&quot;:20,&quot;PageIndex&quot;:1,&quot;TypeOfProduct&quot;:38,&quot;CateId&quot;:324,&quot;CityCode&quot;:&quot;SG&quot;,&quot;DistrictId&quot;:59,&quot;WardId&quot;:-1,&quot;StreetId&quot;:-1,&quot;ProjectId&quot;:2667,&quot;AreaLevel&quot;:-1,&quot;PriceLevel&quot;:-1,&quot;Room&quot;:-1,&quot;Direction&quot;:-1,&quot;CreateById&quot;:0,&quot;MaxArea&quot;:null,&quot;MinArea&quot;:null,&quot;MaxPrice&quot;:null,&quot;MinPrice&quot;:null,&quot;Keyword&quot;:&quot;&quot;,&quot;TabIndex&quot;:0,&quot;IsRefreshCache&quot;:false,&quot;SortValue&quot;:1,&quot;Top&quot;:6,&quot;RawUrl&quot;:&quot;/ban-can-ho-chung-cu-can-ho-hoang-quoc-viet&quot;,&quot;Country&quot;:&quot;VN&quot;,&quot;TextSearch&quot;:null,&quot;PageId&quot;:0,&quot;ExcludeProducts&quot;:null,&quot;SortFieldOption&quot;:null,&quot;Sort&quot;:0,&quot;HasImage&quot;:false,&quot;TypeMeta&quot;:0,&quot;CreateByUser&quot;:0,&quot;ProductId&quot;:0,&quot;SubCateId&quot;:0,&quot;IsTags&quot;:false,&quot;TagID&quot;:0,&quot;SearchSavedName&quot;:null,&quot;SearchTag&quot;:null,&quot;IsMobile&quot;:false,&quot;IsSearch&quot;:false,&quot;ListSubCateId&quot;:null,&quot;TypeSearch&quot;:0,&quot;HashAlias&quot;:null,&quot;IsSuggestion&quot;:false,&quot;PageSizeMin&quot;:0,&quot;NumberOfPageToFetch&quot;:0,&quot;TotalAll&quot;:0,&quot;IsArea&quot;:false,&quot;ExtendAlias&quot;:&quot;can-ho-hoang-quoc-viet&quot;,&quot;CurrentUrl&quot;:null,&quot;CateIds&quot;:null,&quot;Cities&quot;:null,&quot;Districts&quot;:null,&quot;Wards&quot;:null,&quot;Streets&quot;:null,&quot;Projects&quot;:null,&quot;IsProductContext&quot;:false,&quot;TypeOfProductOrigin&quot;:0,&quot;IsHomePage&quot;:false,&quot;CategoryIdsAsString&quot;:&quot;&quot;,&quot;CategoryIds&quot;:[],&quot;DistrictIdsAsString&quot;:&quot;&quot;,&quot;DistrictIds&quot;:[],&quot;WardIdsAsString&quot;:&quot;&quot;,&quot;WardIds&quot;:[],&quot;StreetIdsAsString&quot;:&quot;&quot;,&quot;StreetIds&quot;:[],&quot;ProjectIdsAsString&quot;:&quot;&quot;,&quot;ProjectIds&quot;:[],&quot;SubProjectIdsAsString&quot;:null,&quot;SubProjectIds&quot;:[],&quot;RoomNumbersAsString&quot;:&quot;&quot;,&quot;RoomNumbers&quot;:[],&quot;DirectionsAsString&quot;:&quot;&quot;,&quot;Directions&quot;:[],&quot;MediasAsString&quot;:&quot;&quot;,&quot;Medias&quot;:[],&quot;IsMultipleSearch&quot;:false,&quot;IsMultipleLocation&quot;:false,&quot;LocationIdsFlowAsString&quot;:&quot;SG_59_0_0_2667&quot;,&quot;LocationIdsFlow&quot;:[&quot;SG_59_0_0_2667&quot;],&quot;IsSRPForSalePage&quot;:true,&quot;IsMultipleLocationLevel3&quot;:false,&quot;IsMultipleLocationLevel2&quot;:false}">Xem thêm tin đăng</a>  
+            </div>
+
+
+
+
+                <div class="re__keywords-tags keywords-tags-empty"></div>
+                <div class="re__list-details" style="">
+                    <div class="re__seo-info js__box-content">
+                        <div><strong>Batdongsan.com.vn</strong> mang đến kênh thông tin <strong>bán căn hộ chung cư tại Căn hộ Hoàng Quốc Việt</strong>. 
+                                Là kênh thông tin bất động sản hàng đầu tại Việt Nam, chúng tôi mang đến kênh thông tin nhằm giúp kết nối người cần bán và người có nhu cầu mua chung cư tại Quận 7. 
+                                Batdongsan.com.vn sẽ mang đến góc nhìn trực quan mọi thông tin về căn hộ chung cư tại Căn hộ Hoàng Quốc Việt nhanh nhất, chính xác và đầu đủ nhất. </div>
+                                <div>Liên hệ với <strong>Batdongsan.com.vn</strong> để được tư vấn, giải đáp các thắc mắc hoạc các thông tin về dự án căn hộ chung cư tại Căn hộ Hoàng Quốc Việt cũng như thông tin về căn hộ chung cư ở những khu vực khác.</div>
+                    </div>
+                    <div class="re__container-btn js__off">
+                        <a href="javascript:void(0)" rel="nofollow" class="re__btn re__btn-pr-ghost--sm re__btn-icon-right--sm re__vmore" style="display: none;"><span>Xem thêm</span><i class="re__icon-chevron-down--sm"></i></a>
+                        <a href="javascript:void(0)" rel="nofollow" class="re__btn re__btn-pr-ghost--sm re__btn-icon-right--sm re__vless"><span>Thu gọn</span><i class="re__icon-chevron-up--sm"></i></a>
+                    </div>
+                </div>
+        </div>
+    <span class="hidden" id="listing-filter-params" data-cate-id="38" data-sub-cate-id="324" data-city-code="SG" data-district-id="59" data-ward-id="0" data-street-id="0" data-project-id="2667"></span>
+
+
+
+    <div id="pnlCount" class="re__box-link">
+        <div class="re__clear re__clearfix re__line-s"></div>
+        <div class="re__container-title">
+            <h2 class="re__title">B&#xE1;n c&#x103;n h&#x1ED9; chung c&#x1B0; theo d&#x1EF1; &#xE1;n  t&#x1EA1;i  Qu&#x1EAD;n 7</h2>
+        </div>
+        <div class="re__clearfix"></div>
+        <div class="re__container-content">
+            <div id="div_count_product" class="re__content">
+                    <div class="js__box-content">
+                        <ul class="nobtn">
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-belleza-apartment" class="re__link-se ">
+                                        Belleza Apartment (65)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-eco-green-sai-gon" class="re__link-se ">
+                                        Eco Green S&#xE0;i G&#xF2;n (120)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-green-valley" class="re__link-se ">
+                                        Green Valley (77)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-happy-valley" class="re__link-se ">
+                                        Happy Valley (76)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-him-lam-riverside" class="re__link-se ">
+                                        Him Lam Riverside (101)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-hoang-anh-thanh-binh" class="re__link-se ">
+                                        Ho&#xE0;ng Anh Thanh B&#xEC;nh (45)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-m-one-nam-sai-gon" class="re__link-se ">
+                                        M-One Nam S&#xE0;i G&#xF2;n (49)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-midtown-phu-my-hung" class="re__link-se ">
+                                        Midtown Ph&#xFA; M&#x1EF9; H&#x1B0;ng (161)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-q7-boulevard" class="re__link-se ">
+                                        Q7 Boulevard (106)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-q7-saigon-riverside" class="re__link-se ">
+                                        Q7 Saigon Riverside (323)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-river-panorama" class="re__link-se ">
+                                        River Panorama (70)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-riverside-residence" class="re__link-se re__hide-item">
+                                        Riverside Residence (76)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-scenic-valley-1" class="re__link-se re__hide-item">
+                                        Scenic Valley 1 (83)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-sky-89" class="re__link-se re__hide-item">
+                                        Sky 89 (51)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-sky-garden-3" class="re__link-se re__hide-item">
+                                        Sky Garden 3 (73)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-sunrise-city" class="re__link-se re__hide-item">
+                                        Sunrise City (238)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-sunrise-city-view" class="re__link-se re__hide-item">
+                                        Sunrise City View (73)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-the-ascentia-phu-my-hung" class="re__link-se re__hide-item">
+                                        The Ascentia Ph&#xFA; M&#x1EF9; H&#x1B0;ng (55)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-the-era-town" class="re__link-se re__hide-item">
+                                        The Era Town (91)
+                                    </a>
+                                </li>
+                                <li>
+                                    <a tracking-id="srp-suggestion-link"
+                                       tracking-label="loc=SRP For Sale;type=related"
+                                       href="/ban-can-ho-chung-cu-the-peak-garden" class="re__link-se re__hide-item">
+                                        The Peak Garden (70)
+                                    </a>
+                                </li>
+                        </ul>
+                    </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="re__box-link">
+        <div class="re__clear re__clearfix re__line-s"></div>
+        <div class="re__container-title">
+            <h4 class="re__title">Bất động sản nổi bật</h4>
+        </div>
+        <div class="re__clearfix"></div>
+        <div class="re__container-content">
+            <div id="div_count_product2" class="re__content">
+                <div id="divCountByAreas2" class="js__box-content">
+
+
+                        <ul class="nobtn">
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-can-ho-chung-cu" class="re__link-se">
+                                            C&#x103;n h&#x1ED9; gi&#xE1; r&#x1EBB;
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/tags/ban/ban-can-ho-mini-tp-hcm" class="re__link-se">
+                                            C&#x103;n h&#x1ED9; mini
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-can-ho-chung-cu-quy-nhon-melody" class="re__link-se">
+                                            C&#x103;n h&#x1ED9; Quy Nh&#x1A1;n Melody
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-can-ho-chung-cu-the-pega-suite" class="re__link-se">
+                                            C&#x103;n h&#x1ED9; The Pega Suite
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-can-ho-chung-cu-moonlight-boulevard" class="re__link-se">
+                                            C&#x103;n h&#x1ED9; Moonlight Boulevard
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-can-ho-chung-cu-vista-verde" class="re__link-se">
+                                            C&#x103;n h&#x1ED9; Vista Verde
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-can-ho-chung-cu-vinhomes-grand-park-quan-9" class="re__link-se">
+                                            Vinhomes Grand Park Qu&#x1EAD;n 9
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-can-ho-chung-cu-jamila-khang-dien" class="re__link-se">
+                                            C&#x103;n h&#x1ED9; Jamila Khang &#x110;i&#x1EC1;n
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-can-ho-chung-cu-safira-khang-dien" class="re__link-se">
+                                            C&#x103;n h&#x1ED9; Safira Khang &#x110;i&#x1EC1;n
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-can-ho-chung-cu-hado-centrosa-garden" class="re__link-se">
+                                            HaDo Centrosa Garden
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-can-ho-chung-cu-q7-saigon-riverside" class="re__link-se">
+                                            Q7 Saigon Riverside
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-can-ho-chung-cu-saigon-south-residences" class="re__link-se">
+                                            C&#x103;n h&#x1ED9; Saigon South Residences
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-can-ho-chung-cu-eco-green-sai-gon" class="re__link-se">
+                                            C&#x103;n h&#x1ED9; Eco Green S&#xE0;i G&#xF2;n
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-nha-biet-thu-lien-ke-sun-plaza-grand-world" class="re__link-se">
+                                            Sun Plaza Grand World
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-can-ho-chung-cu-masteri-an-phu" class="re__link-se">
+                                            C&#x103;n h&#x1ED9; Masteri An Ph&#xFA;
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-can-ho-chung-cu-topaz-elite" class="re__link-se">
+                                            C&#x103;n h&#x1ED9; Topaz Elite
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-can-ho-chung-cu-lavita-charm" class="re__link-se">
+                                            C&#x103;n h&#x1ED9; Lavita Charm
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-can-ho-chung-cu-lavida-plus" class="re__link-se">
+                                            C&#x103;n h&#x1ED9; Lavida Plus
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-can-ho-chung-cu-moonlight-park-view" class="re__link-se">
+                                            C&#x103;n h&#x1ED9; Moonlight Park View
+                                        </a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a tracking-id="srp-suggestion-link"
+                                           tracking-label="loc=SRP For Sale;type=location"
+                                           href="/ban-can-ho-chung-cu-new-city-thu-thiem" class="re__link-se">
+                                            C&#x103;n h&#x1ED9; New City Th&#x1EE7; Thi&#xEA;m
+                                        </a>
+                                    </h3>
+                                </li>
+                        </ul>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <div class="re__clear"></div>
+    <input type="hidden" id="UrlOrigin" value="ban-can-ho-chung-cu-can-ho-hoang-quoc-viet{0}?sortValue=1">
+        
+
+<script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+    window.adbutlers = [];
+
+    window.onload = (event) => {
+        $.each(window.adbutlers, async (_, adbutler) => {
+            await adbutler.initialize();
+        });
+    }
+</script>
+
+        <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Mobile/Origins/Binnova/filestatic.ver821b7153.msvbds.FrontEnd.Product.AdbutlerAds.min.js"></script>
+        <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+            window.adbutlers.push(
+                new AdButler({
+                    adButlerApi: "https://servedbyadbutler.com/adserve",
+                    adButlerPayload: {"ID":"183272","setID":"542222","type":"json","place":0,"clickmode":"callback","_abdk_json":{"page":"[\u0027Nh\u00E0 \u0111\u1EA5t b\u00E1n\u0027,\u0027B\u00E1n c\u0103n h\u1ED9 chung c\u01B0\u0027]","search_sell_kind":"[\u0027Nh\u00E0 \u0111\u1EA5t b\u00E1n\u0027]","product_for_sell":"[\u0027Nh\u00E0 \u0111\u1EA5t b\u00E1n\u0027,\u0027B\u00E1n c\u0103n h\u1ED9 chung c\u01B0\u0027]","search_province":"[\u0027T\u1EA5t c\u1EA3\u0027,\u0027H\u1ED3 Ch\u00ED Minh\u0027]","search_district":"[\u0027T\u1EA5t c\u1EA3\u0027,\u0027H\u1ED3 Ch\u00ED Minh - Qu\u1EADn 7\u0027]","search_ward":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_street":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_project":"[\u0027T\u1EA5t c\u1EA3\u0027,\u0027C\u0103n h\u1ED9 Ho\u00E0ng Qu\u1ED1c Vi\u1EC7t\u0027]","search_price":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_direction":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_area":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_room":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_media":"[\u0027T\u1EA5t c\u1EA3\u0027]","page_type":"[\u0027listing\u0027]"}},
+                    htmlApis: {"PremiumAds":"/ProjectNet/ProjectList/GetPremiumAdsByLegacyIds","NativeListing":"/Product/ProductListing/GetSponsoredAdsByProductId","CustomListing":"/Product/ProductListing/GetCustomAdsByInfo"},
+                    queryString: `?sortValue=1&pId=275&cateId=324&pageType=1&lang=1&pType=38&extendAlias=can-ho-hoang-quoc-viet&rawUrl=ban-can-ho-chung-cu-can-ho-hoang-quoc-viet&distId=59&cityCode=SG&projId=2667`,
+                    productPublishes: [{"ProductId":34787349},{"ProductId":34166693},{"ProductId":32588824},{"ProductId":34912875},{"ProductId":34547405},{"ProductId":33952571},{"ProductId":34458775},{"ProductId":34200258},{"ProductId":30034106},{"ProductId":33812801},{"ProductId":32918948},{"ProductId":31252135},{"ProductId":33667064},{"ProductId":33667001},{"ProductId":33398421},{"ProductId":32895769},{"ProductId":30977495},{"ProductId":33578362},{"ProductId":33596013},{"ProductId":32268235}],
+                    productSuggestes: [],
+                    pageSizeMax: 20
+                })
+            );
+        </script>
+        <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+            window.adbutlers.push(
+                new AdButler({
+                    adButlerApi: "https://servedbyadbutler.com/adserve",
+                    adButlerPayload: {"ID":"183272","setID":"542226","type":"json","place":0,"clickmode":"callback","_abdk_json":{"page":"[\u0027Nh\u00E0 \u0111\u1EA5t b\u00E1n\u0027,\u0027B\u00E1n c\u0103n h\u1ED9 chung c\u01B0\u0027]","search_sell_kind":"[\u0027Nh\u00E0 \u0111\u1EA5t b\u00E1n\u0027]","product_for_sell":"[\u0027Nh\u00E0 \u0111\u1EA5t b\u00E1n\u0027,\u0027B\u00E1n c\u0103n h\u1ED9 chung c\u01B0\u0027]","search_province":"[\u0027T\u1EA5t c\u1EA3\u0027,\u0027H\u1ED3 Ch\u00ED Minh\u0027]","search_district":"[\u0027T\u1EA5t c\u1EA3\u0027,\u0027H\u1ED3 Ch\u00ED Minh - Qu\u1EADn 7\u0027]","search_ward":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_street":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_project":"[\u0027T\u1EA5t c\u1EA3\u0027,\u0027C\u0103n h\u1ED9 Ho\u00E0ng Qu\u1ED1c Vi\u1EC7t\u0027]","search_price":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_direction":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_area":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_room":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_media":"[\u0027T\u1EA5t c\u1EA3\u0027]","page_type":"[\u0027listing\u0027]"}},
+                    htmlApis: {"PremiumAds":"/ProjectNet/ProjectList/GetPremiumAdsByLegacyIds","NativeListing":"/Product/ProductListing/GetSponsoredAdsByProductId","CustomListing":"/Product/ProductListing/GetCustomAdsByInfo"},
+                    queryString: `?sortValue=1&pId=275&cateId=324&pageType=1&lang=1&pType=38&extendAlias=can-ho-hoang-quoc-viet&rawUrl=ban-can-ho-chung-cu-can-ho-hoang-quoc-viet&distId=59&cityCode=SG&projId=2667`,
+                    productPublishes: [{"ProductId":34787349},{"ProductId":34166693},{"ProductId":32588824},{"ProductId":34912875},{"ProductId":34547405},{"ProductId":33952571},{"ProductId":34458775},{"ProductId":34200258},{"ProductId":30034106},{"ProductId":33812801},{"ProductId":32918948},{"ProductId":31252135},{"ProductId":33667064},{"ProductId":33667001},{"ProductId":33398421},{"ProductId":32895769},{"ProductId":30977495},{"ProductId":33578362},{"ProductId":33596013},{"ProductId":32268235}],
+                    productSuggestes: [],
+                    pageSizeMax: 20
+                })
+            );
+        </script>
+        <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+            window.adbutlers.push(
+                new AdButler({
+                    adButlerApi: "https://servedbyadbutler.com/adserve",
+                    adButlerPayload: {"ID":"183272","setID":"555166","type":"json","place":0,"clickmode":"callback","_abdk_json":{"page":"[\u0027Nh\u00E0 \u0111\u1EA5t b\u00E1n\u0027,\u0027B\u00E1n c\u0103n h\u1ED9 chung c\u01B0\u0027]","search_sell_kind":"[\u0027Nh\u00E0 \u0111\u1EA5t b\u00E1n\u0027]","product_for_sell":"[\u0027Nh\u00E0 \u0111\u1EA5t b\u00E1n\u0027,\u0027B\u00E1n c\u0103n h\u1ED9 chung c\u01B0\u0027]","search_province":"[\u0027T\u1EA5t c\u1EA3\u0027,\u0027H\u1ED3 Ch\u00ED Minh\u0027]","search_district":"[\u0027T\u1EA5t c\u1EA3\u0027,\u0027H\u1ED3 Ch\u00ED Minh - Qu\u1EADn 7\u0027]","search_ward":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_street":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_project":"[\u0027T\u1EA5t c\u1EA3\u0027,\u0027C\u0103n h\u1ED9 Ho\u00E0ng Qu\u1ED1c Vi\u1EC7t\u0027]","search_price":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_direction":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_area":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_room":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_media":"[\u0027T\u1EA5t c\u1EA3\u0027]","page_type":"[\u0027listing\u0027]"}},
+                    htmlApis: {"PremiumAds":"/ProjectNet/ProjectList/GetPremiumAdsByLegacyIds","NativeListing":"/Product/ProductListing/GetSponsoredAdsByProductId","CustomListing":"/Product/ProductListing/GetCustomAdsByInfo"},
+                    queryString: `?sortValue=1&pId=275&cateId=324&pageType=1&lang=1&pType=38&extendAlias=can-ho-hoang-quoc-viet&rawUrl=ban-can-ho-chung-cu-can-ho-hoang-quoc-viet&distId=59&cityCode=SG&projId=2667`,
+                    productPublishes: [{"ProductId":34787349},{"ProductId":34166693},{"ProductId":32588824},{"ProductId":34912875},{"ProductId":34547405},{"ProductId":33952571},{"ProductId":34458775},{"ProductId":34200258},{"ProductId":30034106},{"ProductId":33812801},{"ProductId":32918948},{"ProductId":31252135},{"ProductId":33667064},{"ProductId":33667001},{"ProductId":33398421},{"ProductId":32895769},{"ProductId":30977495},{"ProductId":33578362},{"ProductId":33596013},{"ProductId":32268235}],
+                    productSuggestes: [],
+                    pageSizeMax: 20
+                })
+            );
+        </script>
+
+
+                    </div>
+                    <div class="re__clear"></div>
+                    
+
+<footer class="re__footer">
+    <div class="re__container">
+        <div class="re__logo">
+            <a href="https://m.batdongsan.com.vn">
+                
+                
+                    <img class="lazyload" data-src="https://staticfile.batdongsan.com.vn/images/logo/logo-black.svg" error-image-src="https://staticfile.batdongsan.com.vn/images/logo/logo-black.png" alt="Website số 1 về bất động sản">
+                
+                
+            </a>
+        </div>
+        <div class="re__company">
+            CÔNG TY CỔ PHẦN PROPERTYGURU VIỆT NAM
+        </div>
+        <div class="re__address">
+            Tầng 31, Keangnam Hanoi Landmark,<br />Phạm Hùng, Nam Từ Liêm, Hà Nội
+        </div>
+        <div class="re__hotline">
+            <a class="re__email" href="/cdn-cgi/l/email-protection#650d0a11170a25070411010a0b0216040b4b060a084b130b">
+                <span class="__cf_email__" data-cfemail="abc3c4dfd9c4ebc9cadfcfc4c5ccd8cac585c8c4c685ddc5">[email&#160;protected]</span>
+            </a>
+            <br />
+            <a href="tel:19001881" class="re__btn re__btn-pr-solid--sm re__btn-icon-left--sm re__btn-full-screen--sm">
+                <span class="re__content"><i class="re__icon-phone-call--sm"></i><span>1900 1881</span></span>
+            </a>
+        </div>
+        <div class="re__link lazyload" data-func="new window.FrontEnd.Footer({});" data-script="https://staticfile.batdongsan.com.vn/js/Mobile/Footer/filestatic.ver821b7153.msvbds.FrontEnd.Footer.Layout.min.js">
+            <ul>
+                <li>
+                    <div class="re__title">HƯỚNG DẪN</div>
+                    <ul>
+                        <li><a href="https://m.batdongsan.com.vn/bao-gia-quang-cao#a4" rel="nofollow">Báo giá &amp; hỗ trợ</a></li>
+                        <li><a href="https://trogiup.batdongsan.com.vn/docs/cau-hoi-thuong-gap" rel="nofollow">Câu hỏi thường gặp</a></li>
+                        <li><a href="https://m.batdongsan.com.vn/gioi-thieu" rel="nofollow">Về chúng tôi</a></li>
+                        <li><a href="https://m.batdongsan.com.vn/ve-batdongsancomvn" rel="nofollow">Thông báo</a></li>
+                        <li><a href="https://m.batdongsan.com.vn/lien-he" rel="nofollow">Liên hệ</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <div class="re__title">QUY ĐỊNH</div>
+                    <ul>
+                        <li><a href="https://trogiup.batdongsan.com.vn/docs/quy-dinh-dang-tin-chung" rel="nofollow">Quy định đăng tin</a></li>
+                        <li><a href="https://trogiup.batdongsan.com.vn/docs/quy-che-hoat-dong" rel="nofollow">Quy chế hoạt động</a></li>
+                        <li><a href="https://trogiup.batdongsan.com.vn/docs/dieu-khoan-thoa-thuan" rel="nofollow">Điều khoản thỏa thuận</a></li>
+                        <li><a href="https://trogiup.batdongsan.com.vn/docs/chinh-sach-bao-mat" rel="nofollow">Chính sách bảo mật</a></li>
+                        <li><a href="https://trogiup.batdongsan.com.vn/docs/giai-quyet-khieu-nai" rel="nofollow">Giải quyết khiếu nại</a></li>
+                        <li><a href="https://airtable.com/shrbaUORGfT7arZVJ" target="_blank" rel="nofollow">Góp ý báo lỗi</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <div class="re__title">CHI NHÁNH Batdongsan.com.vn</div>
+                    <ul class="re__branch-detail">
+                        <li>
+                            <div class="re__branch-name">Chi nhánh TP. Hồ Chí Minh</div>
+                            <div class="re__branch-add">
+                                Tầng 3, Tòa nhà Viettel Complex, 285 Cách Mạng Tháng Tám, Phường 12, Quận 10, TP. Hồ Chí Minh<br>
+                                Điện thoại: 0904 893 279 - 0904 946 163
+                            </div>
+                        </li>
+                        <li>
+                            <div class="re__branch-name">Chi nhánh Đà Nẵng</div>
+                            <div class="re__branch-add">
+                                Tầng 9, tòa nhà Vĩnh Trung Plaza, số 255 – 257 Hùng Vương, phường Vĩnh Trung, quận Thanh Khê, TP. Đà Nẵng<br>
+                                Điện thoại: (0236) 3 666 968 - Mobile: 0904 907 279
+                            </div>
+                        </li>
+                        <li>
+                            <div class="re__branch-name">Chi nhánh Nha Trang</div>
+                            <div class="re__branch-add">
+                                Tầng 6, Tòa nhà CTCP Điện Lực Khánh Hòa, 11 Lý Thánh Tôn, Phường Vạn Thạnh, TP Nha Trang, Khánh Hòa<br>
+                                Điện thoại: (0258) 3 818 886 - Mobile: 0902 169 295
+                            </div>
+                        </li>
+                        <li>
+                            <div class="re__branch-name">Chi nhánh Hải Phòng</div>
+                            <div class="re__branch-add">
+                                Phòng 502, TD Business Center, lô 20A Lê Hồng Phong, quận Ngô Quyền, TP. Hải Phòng<br>
+                                Điện thoại: (0225) 3 246 848 - Mobile: 0903 456 322
+                            </div>
+                        </li>
+                        <li>
+                            <div class="re__branch-name">Chi nhánh Cần Thơ</div>
+                            <div class="re__branch-add">
+                                Lầu 8, số 8 đường Phan Văn Trị, phường An Phú, quận Ninh Kiều, TP. Cần Thơ<br>
+                                Điện thoại: (0292) 3 837 838 - Mobile: 0902 229 697
+                            </div>
+                        </li>
+                        <li>
+                            <div class="re__branch-name">Chi nhánh Vũng Tàu</div>
+                            <div class="re__branch-add">
+                                Tầng 4, tòa nhà ACB, số 111 Hoàng Hoa Thám, phường 2, TP. Vũng Tàu, tỉnh Bà Rịa - Vũng Tàu<br>
+                                Điện thoại: (0254) 3 511 339 - Mobile: 0904 509 293
+                            </div>
+                        </li>
+                        <li>
+                            <div class="re__branch-name">Chi nhánh Bình Dương</div>
+                            <div class="re__branch-add">
+                                Phòng 10, tầng 16, Becamex Tower, số 230 Đại lộ Bình Dương, P.Phú Hòa, TP.Thủ Dầu Một, tỉnh Bình Dương<br>
+                                Điện thoại: (0274) 22 21 201, Mobile: 0919 255 580
+                            </div>
+                        </li>
+                        <li>
+                            <div class="re__branch-name">Chi nhánh Đồng Nai</div>
+                            <div class="re__branch-add">
+                                Lầu 18, tòa Pegasus, số 53-55 đường Võ Thị Sáu, phường Quyết Thắng, TP. Biên Hoà, tỉnh Đồng Nai<br>
+                                Điện thoại: 0906 282 428
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class="re__link-app">
+            <div class="re__title">Tải ứng dụng</div>
+            <ul class="re__content">
+                <li>
+                    <a href="https://play.google.com/store/apps/details?id=vn.com.batdongsan" rel="nofollow">
+                        <img class="lazyload" data-src="https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://apps.apple.com/vn/app/batdongsan.com.vn/id866492094" target="_blank" rel="nofollow">
+                        <img class="lazyload" data-src="https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png">
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="re__container re__border">
+        <div class="re__info">
+            <p>Copyright © 2007 - 2022 Batdongsan.com.vn.</p>
+            <p>
+                Giấy ĐKKD 0104630479 cấp lần đầu ngày 02/06/2010<br />
+                Giấy phép ICP 2399/GP-STTTT cấp ngày 04/09/2014<br />
+                Giấy phép GH ICP 3832/GP-TTĐT cấp ngày 08/08/2019<br />
+                Giấy phép SĐ, BS GP ICP 3833/GP-TTĐT cấp ngày 08/08/2019<br />
+                Giấy xác nhận số 1728/GXN-TTĐT do Sở TTTT Hà Nội cấp ngày 23/06/2020<br />
+                Giấy phép GH ICP số 2886/GP-TTĐT do Sở TTTT Hà Nội cấp ngày 09/08/2021
+            </p>
+            <p>
+                Chịu trách nhiệm nội dung GP ICP: Bà Đặng Thị Hường<br />
+                Chịu trách nhiệm sàn GDTMĐT: Ông Vũ Triệu Vương
+            </p>
+            <p class="re__img">
+                <a href="http://online.gov.vn/Home/WebDetails/5480" rel="nofollow" target="_blank">
+                    <img class="lazyload" data-src="https://staticfile.batdongsan.com.vn/images/mobile/footer/da-dang-ki-bct.png">
+                </a>                
+            </p>
+        </div>
+    </div>
+    <div class="re__container re__fix-bottom">
+        <div class="re__text-left">
+            <a href="https://batdongsan.com.vn/HandlerWeb/UserHandler.ashx?type=mobile&amp;redirectUrl=https://batdongsan.com.vn">
+                <div class="re__content">
+                    <i class="re__icon-desktop"></i>
+                    <span class="re__text">Bản desktop</span>
+                </div>
+            </a>
+        </div>
+        <div class="re__text-right">
+            <a href="https://m.batdongsan.com.vn/english">
+                <div class="re__content">
+                    <i class="re__icon-en">
+                        <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span><span class="path8"></span><span class="path9"></span><span class="path10"></span><span class="path11"></span><span class="path12"></span><span class="path13"></span><span class="path14"></span>
+                    </i>
+                    <span class="re__text">English</span>
+                </div>
+            </a>
+        </div>
+    </div>
+</footer>
+
+
+
+                </div>
+            </div>
+
+            <div class="re__hide js__menu-placeholder"></div>
+        </div>
+    </div>
+    <div class="js__popup-marking re__popupMarking re__save" style="display: none">
+        <span>
+            <i class="re__icon-heart-pressed"></i>
+        </span>
+        <span class="re__content"> L&#x1B0;u tin th&#xE0;nh c&#xF4;ng</span>
+    </div>
+    <div class="js__popup-marking re__popupMarking re__unsave" style="display: none">
+        <span>
+            <i class="re__icon-heart"></i>
+        </span>
+        <span class="re__content">&#x110;&#xE3; b&#x1ECF; l&#x1B0;u tin</span>
+    </div>
+
+<div class="filter-search--form-hide js__form-filter-search ">
+    <div class="filter-search--bg-suggetion"></div>
+    <div class="filter-search--header">
+        <div class="filter-search--title">
+            <h2 class="filter-search--title--text">
+                T&#xEC;m ki&#x1EBF;m b&#x1EA5;t &#x111;&#x1ED9;ng s&#x1EA3;n
+            </h2>
+            <div class="filter-search--title--icon-close js__form-filter-search--close">
+                <i class="re__icon-close-no-circle"></i>
+            </div>
+        </div>
+        <div class="filter-search--input-search">
+            <div class="re__input--sm re__input-icon-left--sm re__icon-search--sm">
+                <input id="txtSearch" name="txtSearch" placeholder="T&#xEC;m nhanh. VD: Vinhomes Central Park" type="text" value="" class="ui-autocomplete-input js__form-filter-search--autocomplete" autocomplete="off">
+                <span class="re__input-icon-close re__hidden-icon js__filter-search-clear-input">
+                    <span class="path1"></span>
+                    <span class="path2"></span>
+                </span>
+            </div>
+            <div class="filter-search--title--icon-close js__form-filter-search--close-autocomplete">
+                <i class="re__icon-close-no-circle"></i>
+            </div>
+        </div>
+        <div class="filter-search--tab">
+            <ul class="re__tab-under-line-group js__filter-search--tab">
+                <li class="re__tab-under-line--sm re__actived" data-tab="38">
+                    Nhà đất bán
+                </li>
+                <li class="re__tab-under-line--sm" data-tab="49">
+                    Nhà đất cho thuê
+                </li>
+                <li class="re__tab-under-line--sm" data-tab="351">
+                    Dự án
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="filter-search--body-content">
+        <div class="filter-search--banner js__banner-form-search">
+            <div class="filter-search--banner--all-content">
+                <div class="filter-search--banner--content">
+                    <div class="title">
+                        Tính năng mới
+                    </div>
+                    <div class="content">
+                        Cho phép có nhiều lựa chọn trong <br>Loại nhà đất, Khu vực, Hướng nhà, Số phòng ngủ, ...
+                    </div>
+                </div>
+                <div class="filter-search--banner--close">
+                    <i class="re__icon-close--sm js__banner-form-search--close"></i>
+                </div>
+            </div>
+        </div>
+        <div class="filter-search--input-search placeholder">
+            <div class="re__input--md re__input-icon-left--md re__icon-search--md" data-form="search">
+                <input type="text" class="filter-search--input-search--btn js__form-filter-search--btn-autocomplete" value="" placeholder="T&#xEC;m nhanh. VD: Vinhomes Central Park"/>
+                <span class="re__input-icon-close re__hidden-icon js__form-filter-search--clear-autocomplete">
+                    <span class="path1"></span>
+                    <span class="path2"></span>
+                </span>
+            </div>
+        </div>
+        <div class="filter-search--block-filter">
+            <div class="filter-search--block-filter--title js__filter-search--cate-title">
+                Loại nhà đất
+            </div>
+            <div class="filter-search--block-filter--content js__filter-search--cate">
+                <div class="js__filter-search--content-change js__filter-search--content-change-cate-38 re__hide"></div>
+                <div class="js__filter-search--content-change js__filter-search--content-change-cate-49 "></div>
+                <div class="js__filter-search--content-change js__filter-search--content-change-cate-351 "></div>
+                <div class="re__tag re__edit js__search-filter js__filter-search--advance-options" data-type="cate" data-action="submit" data-form="search"><i class="re__icon-edit--sm"></i></div>
+            </div>
+        </div>
+        <div class="filter-search--block-filter">
+            <div class="filter-search--block-filter--title js__filter-search--location-title">
+              Khu vực & Dự án
+            </div>
+            <div class="filter-search--block-filter--content js__filter-search--location">
+                <div class="js__filter-search--content-change js__filter-search--content-change-location-38 re__hide"></div>
+                <div class="js__filter-search--content-change js__filter-search--content-change-location-49 "></div>
+                <div class="js__filter-search--content-change js__filter-search--content-change-location-351 "></div>
+                <div class="re__tag re__edit js__search-filter js__filter-search--advance-options" data-type="location" data-action="submit" data-form="search" data-tab-project=""><i class="re__icon-edit--sm"></i></div>
+            </div>
+        </div>
+        <div class="filter-search--block-filter filter-search--slide">
+            <div class="filter-search--block-filter--title filter-search--block-filter--title-price">
+                Mức giá
+            </div>
+            <div class="filter-search--block-filter--content">
+                <div class="advance-select-options filter-search--advance-price-options" data-type="priceLevel">
+                    <div class="filter-search--search-label js__search-filter js__filter-search--price js__filter-search--advance-options" data-type="price" data-action="submit" data-form="search">
+                        <div class="re__s-drop re__select--sm">
+                            <span class="re__v-drop js__v-drop">
+                                Tất cả mức giá
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="filter-search--block-filter filter-search--slide js__filter-search--block-area">
+            <div class="filter-search--block-filter--title filter-search--block-filter--area">
+                Diện tích
+            </div>
+            <div class="filter-search--block-filter--content">
+                <div class="advance-select-options filter-search--advance-price-options" data-type="priceLevel">
+                    <div class="filter-search--search-label js__search-filter js__filter-search--area js__filter-search--advance-options" data-type="area" data-action="submit" data-form="search">
+                        <div class="re__s-drop re__select--sm">
+                            <span class="re__v-drop js__v-drop">
+                                Tất cả diện tích
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="filter-search--block-filter filter-search--block-filter--end">
+            <div class="re__filter-content js__filter-search--other-product">
+                <div class="filter-search--block-filter--title filter-search--block-filter--room">Số phòng ngủ</div>
+                <div class="filter-search--block-filter--content">
+                    <ul class="js__filter-room-options js__filter-search--advance-options" data-form="search" data-type="room">
+                                <li class="re__tag advance-options" vl="1">1</li>
+                                <li class="re__tag advance-options" vl="2">2</li>
+                                <li class="re__tag advance-options" vl="3">3</li>
+                                <li class="re__tag advance-options" vl="4">4</li>
+                                <li class="re__tag advance-options" vl="5">&#x2B;5</li>
+                    </ul>
+                </div>
+                <div class="filter-search--block-filter--title">Hướng nhà</div>
+                <div class="filter-search--block-filter--content">
+                    <ul class="js__filter-direction-options js__filter-search--advance-options" data-form="search" data-type="direction">
+                                <li class="re__tag advance-options" vl="1">&#x110;&#xF4;ng</li>
+                                <li class="re__tag advance-options" vl="2">T&#xE2;y</li>
+                                <li class="re__tag advance-options" vl="3">Nam</li>
+                                <li class="re__tag advance-options" vl="4">B&#x1EAF;c</li>
+                                <li class="re__tag advance-options" vl="5">&#x110;&#xF4;ng - B&#x1EAF;c</li>
+                                <li class="re__tag advance-options" vl="6">T&#xE2;y - B&#x1EAF;c</li>
+                                <li class="re__tag advance-options" vl="7">T&#xE2;y - Nam</li>
+                                <li class="re__tag advance-options" vl="8">&#x110;&#xF4;ng - Nam</li>
+                    </ul>
+                </div>
+                <div class="filter-search--block-filter--title">Nội dung tin có</div>
+                <div class="filter-search--block-filter--content">
+                    <ul class="re__end js__filter-media-options js__filter-search--advance-options" data-form="search" data-type="media">
+                                <li class="re__tag advance-options" vl="1">H&#xEC;nh &#x1EA3;nh</li>
+                                <li class="re__tag advance-options" vl="2">Video</li>
+                                <li class="re__tag advance-options" vl="4">&#x1EA2;nh 3D &amp; 360&#xB0;</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="re__filter-content js__filter-search--other-project">
+                <div class="filter-search--block-filter--title filter-search--block-filter--stage">Trạng thái</div>
+                <div class="filter-search--block-filter--content">
+                    <ul class="js__filter-stage-options js__filter-search--advance-options" data-form="search" data-type="project-stage">
+                                <li class="re__tag advance-options" vl="1">S&#x1EAF;p m&#x1EDF; b&#xE1;n</li>
+                                <li class="re__tag advance-options" vl="2">&#x110;ang m&#x1EDF; b&#xE1;n</li>
+                                <li class="re__tag advance-options" vl="3">&#x110;&#xE3; b&#xE0;n giao</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="filter-search--fix-btn">
+            <div id="searchHistory"
+                    data-producttype="38"
+                    data-subcateid="324"
+                    data-citycode="SG"
+                    data-districid="59"
+                    data-wardid="-1"
+                    data-streetid="-1"
+                    data-projectid="0"
+                    data-priceid=""
+                    data-minprice=""
+                    data-maxprice=""
+                    data-areaid=""
+                    data-minarea=""
+                    data-maxarea=""
+                    data-directionid="59"
+                    data-roomid="-1"
+                    data-tabindex="-1"
+                    data-keyword=""
+                    data-createbyid=""
+                    data-tagsid="0"
+                    data-tagalias=""
+                    data-tagalias=""
+                    data-stagesAsString="">
+            </div>
+
+        <a href="javascript:void(0)" class="re__btn re__btn-se-border--md filter-search--fix-btn--reset js__filter-search--reset-form">
+            Đặt lại
+        </a>
+        <a href="javascript:void(0);" class="re__btn re__btn-pr-solid--md re__btn-icon-left--md re__btn-full-screen--md filter-search--fix-btn--search js__filter-search--submit-form">
+            <span class="re__content"><i class="re__icon-search"></i><span class="text">Tìm kiếm</span></span>
+        </a>
+    </div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script searching-suggestions-service-params='{"hours":2.0,"trackingInfo":{"id":"search-bar-suggestion","project":"project","location":"location","history":"history","nearMe":"near me"}}' data-locations-services-params="{&quot;getCitiesUrl&quot;:&quot;https://m.batdongsan.com.vn/Product/ProductSearch/GetCities&quot;,&quot;getDistrictsUrl&quot;:&quot;https://m.batdongsan.com.vn/Product/ProductSearch/GetDistricts&quot;,&quot;getStreetsByDistrictIdsUrl&quot;:&quot;https://m.batdongsan.com.vn/Product/ProductSearch/GetStreetsByDistrictIds&quot;,&quot;getWardsByDistrictIdsUrl&quot;:&quot;https://m.batdongsan.com.vn/Product/ProductSearch/GetWardsByDistrictIds&quot;,&quot;getProjectsByDistrictIdsUrl&quot;:&quot;https://m.batdongsan.com.vn/Product/ProductSearch/GetProjectsByDistrictIds&quot;}" type="cbbb4fa03f49c1afa13ef0bf-text/javascript"></script>
+
+
+
+
+
+
+
+
+
+<script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+    (function getData() {
+        if (window.FrontEnd && window.FrontEnd.Product && FrontEnd.Product.FilterSearch) {
+            new FrontEnd.Product.FilterSearch({
+                urlFilterSearch: '/Product/ProductSearch/SearchV2',
+                urlProjectSubmit: '/ProjectNet/ProjectSearch',
+                productType: 38,
+                categoryIdsAsString: "324",
+                cityCode: "SG",
+                districtIdsAsString: "59",
+                streetIdsAsString: "",
+                wardIdsAsString: "",
+                projectIdsAsString: "2667_59",
+                priceId: -1,
+                maxPrice: -1,
+                minPrice: -1,
+                priceAsString: "",
+                areaId: -1,
+                maxArea: -1,
+                minArea: -1,
+                areaAsString: "",
+                directionsAsString: "",
+                roomNumersAsString: "",
+                mediasAsString: "",
+                stagesAsString: "",
+                keyword: "",
+                tagName: "",
+                maxSearchingHistoriesLength: 20,
+                syncTimeSearchingHistories: 5,
+                syncSearchingHistoriesUrl: '/Product/ProductSearch/SyncSearchingHistories',
+                removeSearchingHistoryUrl: '/Product/ProductSearch/RemoveSearchingHistory',
+                sortId: 1,
+                DYNAMIC_PLACEHOLDER: ["Dự án Vinhomes Ocean Park","Dự án Sunrise City","Dự án Ecopark","Đường Láng","Đường Nguyễn Thị Minh Khai","Đường Võ Văn Kiệt","Quận 2","Quận Cầu Giấy","Quận Hải Châu"]
+            });
+        } else {
+            setTimeout(getData, 200);
+        }
+    }) ();
+</script>
+
+<div style="display: none"
+     class="searching-histories-configs"
+     max-searching-histories-length="20"
+     sync-time-searching-histories="5"
+     sync-searching-histories-url="/Product/ProductSearch/SyncSearchingHistories"
+     remove-searching-histories-url="/Product/ProductSearch/RemoveSearchingHistory">
+</div><input data-val="true" data-val-required="The ProductType field is required." id="ProductType" name="ProductType" type="hidden" value="38" />
+<div class="re__search-filter-popup js__search-filter-popup" data-form="filter">
+    <div class="re__bg-filter-dropdown"></div>
+    <div class="re__advance-filter-options js__advance-filter-options">
+        <div class="re__custom-body re__search-cate js__filter-cate">
+            <h1 class="re__filter-title"><span class="re__text">Lo&#x1EA1;i nh&#xE0; &#x111;&#x1EA5;t b&#xE1;n</span><span class="re__close-advance-filter"></span></h1>
+            <div class="re__filter-content">
+                <div id="divFilterSellCate" class="">
+                    <ul class="re__multiple">
+                                    <li vl="0" class="advance-options" data-parent="-1">
+                                        <i class="re__icon-all--sm js__sub-advance-options"></i>
+                                        <span class="re__text js__sub-advance-options">T&#x1EA5;t c&#x1EA3; nh&#xE0; &#x111;&#x1EA5;t</span>
+                                    </li>
+                                    <li vl="324" class="  advance-options">
+                                        <i class="re__icon-apartment--sm js__sub-advance-options"></i>
+                                        <span class="re__text js__sub-advance-options">C&#x103;n h&#x1ED9; chung c&#x1B0;</span>
+                                    </li>
+                                    <li vl="362" class="re__parent-li js__parent-li  advance-options">
+                                        <i class="re__icon-villa--sm js__sub-advance-options"></i>
+                                        <span class="re__text js__sub-advance-options">C&#xE1;c lo&#x1EA1;i nh&#xE0; b&#xE1;n</span>
+                                    </li>
+                                            <li data-parent="362" vl="41" class="re__sub-li js__sub-li advance-options" style="border: none;">
+                                                <span></span>Nh&#xE0; ri&#xEA;ng
+                                            </li>
+                                            <li data-parent="362" vl="325" class="re__sub-li js__sub-li advance-options" style="border: none;">
+                                                <span></span>Nh&#xE0; bi&#x1EC7;t th&#x1EF1;, li&#x1EC1;n k&#x1EC1;
+                                            </li>
+                                            <li data-parent="362" vl="163" class="re__sub-li js__sub-li advance-options" style="border: none;">
+                                                <span></span>Nh&#xE0; m&#x1EB7;t ph&#x1ED1;
+                                            </li>
+                                            <li data-parent="362" vl="575" class="re__sub-li re__end js__sub-li advance-options" style="">
+                                                <span></span>Shophouse, nh&#xE0; ph&#x1ED1; th&#x1B0;&#x1A1;ng m&#x1EA1;i
+                                            </li>
+                                    <li vl="361" class="re__parent-li js__parent-li  advance-options">
+                                        <i class="re__icon-land--sm js__sub-advance-options"></i>
+                                        <span class="re__text js__sub-advance-options">C&#xE1;c lo&#x1EA1;i &#x111;&#x1EA5;t b&#xE1;n</span>
+                                    </li>
+                                            <li data-parent="361" vl="40" class="re__sub-li js__sub-li advance-options" style="border: none;">
+                                                <span></span>&#x110;&#x1EA5;t n&#x1EC1;n d&#x1EF1; &#xE1;n
+                                            </li>
+                                            <li data-parent="361" vl="283" class="re__sub-li re__end js__sub-li advance-options" style="">
+                                                <span></span>B&#xE1;n &#x111;&#x1EA5;t
+                                            </li>
+                                    <li vl="44" class=" re__parent-li advance-options">
+                                        <i class="re__icon-farm--sm js__sub-advance-options"></i>
+                                        <span class="re__text js__sub-advance-options">Trang tr&#x1EA1;i, khu ngh&#x1EC9; d&#x1B0;&#x1EE1;ng</span>
+                                    </li>
+                                            <li data-parent="44" vl="562" class="re__sub-li re__end advance-options" style="">
+                                                <span></span>Condotel
+                                            </li>
+                                    <li vl="45" class="  advance-options">
+                                        <i class="re__icon-stock--sm js__sub-advance-options"></i>
+                                        <span class="re__text js__sub-advance-options">Kho, nh&#xE0; x&#x1B0;&#x1EDF;ng</span>
+                                    </li>
+                                    <li vl="48" class="  advance-options">
+                                        <i class="re__icon-other--sm js__sub-advance-options"></i>
+                                        <span class="re__text js__sub-advance-options">B&#x1EA5;t &#x111;&#x1ED9;ng s&#x1EA3;n kh&#xE1;c</span>
+                                    </li>
+                    </ul>
+                </div>
+                <div id="divFilterRentCate" class="re__hide">
+                    <ul class="re__multiple">
+                                    <li vl="0" class="advance-options" data-parent="-1">
+                                        <i class="re__icon-all--sm"></i>
+                                        <span class="re__text">T&#x1EA5;t c&#x1EA3; nh&#xE0; &#x111;&#x1EA5;t</span>
+                                    </li>
+                                    <li vl="326" class="advance-options">
+                                        <i class="re__icon-apartment--sm"></i>
+                                        <span class="re__text">C&#x103;n h&#x1ED9; chung c&#x1B0;</span>
+                                    </li>
+                                    <li vl="52" class="advance-options">
+                                        <i class="re__icon-private-house--sm"></i>
+                                        <span class="re__text">Nh&#xE0; ri&#xEA;ng</span>
+                                    </li>
+                                    <li vl="577" class="advance-options">
+                                        <i class="re__icon-complex--sm"></i>
+                                        <span class="re__text">Nh&#xE0; bi&#x1EC7;t th&#x1EF1;, li&#x1EC1;n k&#x1EC1;</span>
+                                    </li>
+                                    <li vl="51" class="advance-options">
+                                        <i class="re__icon-street-house--sm"></i>
+                                        <span class="re__text">Nh&#xE0; m&#x1EB7;t ph&#x1ED1;</span>
+                                    </li>
+                                    <li vl="57" class="advance-options">
+                                        <i class="re__icon-dorm--sm"></i>
+                                        <span class="re__text">Nh&#xE0; tr&#x1ECD;, ph&#xF2;ng tr&#x1ECD;</span>
+                                    </li>
+                                    <li vl="576" class="advance-options">
+                                        <i class="re__icon-shophouse--sm"></i>
+                                        <span class="re__text">Shophouse, nh&#xE0; ph&#x1ED1; th&#x1B0;&#x1A1;ng m&#x1EA1;i</span>
+                                    </li>
+                                    <li vl="50" class="advance-options">
+                                        <i class="re__icon-office--sm"></i>
+                                        <span class="re__text">V&#x103;n ph&#xF2;ng</span>
+                                    </li>
+                                    <li vl="55" class="advance-options">
+                                        <i class="re__icon-kiot--sm"></i>
+                                        <span class="re__text">C&#x1EED;a h&#xE0;ng, ki &#x1ED1;t</span>
+                                    </li>
+                                    <li vl="53" class="advance-options">
+                                        <i class="re__icon-stock--sm"></i>
+                                        <span class="re__text">Kho, nh&#xE0; x&#x1B0;&#x1EDF;ng, &#x111;&#x1EA5;t</span>
+                                    </li>
+                                    <li vl="59" class="advance-options">
+                                        <i class="re__icon-other--sm"></i>
+                                        <span class="re__text">B&#x1EA5;t &#x111;&#x1ED9;ng s&#x1EA3;n kh&#xE1;c</span>
+                                    </li>
+                    </ul>
+                </div>
+                <div id="divFilterProjectCate" class="re__hide">
+                    <ul>
+                        <li vl="0" class="advance-options selected" data-parent="-1">
+                            <i class="re__icon-building--sm"></i>
+                            <span class="re__text">Tất cả loại hình</span>
+                        </li>
+                                <li vl="155" class="advance-options">
+                                    <i class="re__icon-apartment--sm"></i>
+                                    <span class="re__text">C&#x103;n h&#x1ED9; chung c&#x1B0;</span>
+                                </li>
+                                <li vl="156" class="advance-options">
+                                    <i class="re__icon-office--sm"></i>
+                                    <span class="re__text">Cao &#x1ED1;c v&#x103;n ph&#xF2;ng</span>
+                                </li>
+                                <li vl="157" class="advance-options">
+                                    <i class="re__icon-mall--sm"></i>
+                                    <span class="re__text">Trung t&#xE2;m th&#x1B0;&#x1A1;ng m&#x1EA1;i</span>
+                                </li>
+                                <li vl="150" class="advance-options">
+                                    <i class="re__icon-urban-area--sm"></i>
+                                    <span class="re__text">Khu &#x111;&#xF4; th&#x1ECB; m&#x1EDB;i</span>
+                                </li>
+                                <li vl="160" class="advance-options">
+                                    <i class="re__icon-complex--sm"></i>
+                                    <span class="re__text">Khu ph&#x1EE9;c h&#x1EE3;p</span>
+                                </li>
+                                <li vl="148" class="advance-options">
+                                    <i class="re__icon-private-house--sm"></i>
+                                    <span class="re__text">Nh&#xE0; &#x1EDF; x&#xE3; h&#x1ED9;i</span>
+                                </li>
+                                <li vl="158" class="advance-options">
+                                    <i class="re__icon-farm--sm"></i>
+                                    <span class="re__text">Khu ngh&#x1EC9; d&#x1B0;&#x1EE1;ng, Sinh th&#xE1;i</span>
+                                </li>
+                                <li vl="159" class="advance-options">
+                                    <i class="re__icon-industrial-park--sm"></i>
+                                    <span class="re__text">Khu c&#xF4;ng nghi&#x1EC7;p</span>
+                                </li>
+                                <li vl="421" class="advance-options">
+                                    <i class="re__icon-all--sm"></i>
+                                    <span class="re__text">Bi&#x1EC7;t th&#x1EF1; li&#x1EC1;n k&#x1EC1;</span>
+                                </li>
+                                <li vl="600" class="advance-options">
+                                    <i class="re__icon-shophouse--sm"></i>
+                                    <span class="re__text">Shophouse</span>
+                                </li>
+                                <li vl="601" class="advance-options">
+                                    <i class="re__icon-street-house--sm"></i>
+                                    <span class="re__text">Nh&#xE0; m&#x1EB7;t ph&#x1ED1;</span>
+                                </li>
+                                <li vl="161" class="advance-options">
+                                    <i class="re__icon-other--sm"></i>
+                                    <span class="re__text">D&#x1EF1; &#xE1;n kh&#xE1;c</span>
+                                </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="re__custom-body re__search-location js__filter-location-form">
+            <h1 class="re__filter-title">
+                <span class="re__back-advance-filter re__hidden-icon js__back-advance-filter"></span>
+                <span class="re__text">Chọn Tỉnh/Thành</span>
+                <span class="re__close-advance-filter"></span>
+            </h1>
+            <div class="re__row-search">
+                <div class="re__input--sm re__input-icon-left--sm re__icon-search--sm">
+                    <input class="js__option-search-loaction" data-type="city" placeholder="Tìm Tỉnh/Thành" type="text" autocomplete="off">
+                    <span class="re__input-icon-close re__hidden-icon re__icon-search--sm js__option-search-close">
+                        <span class="path1"></span>
+                        <span class="path2"></span>
+                    </span>
+                </div>
+            </div>
+            <div class="re__filter-content">
+                <div class="re__filter-content-location js__filter-location js__filter-city" data-location="city" data-type="one">
+                    <div class="re__search-label">
+                        <label>Tỉnh/Thành</label>
+                        <span class="re__select-custom"></span>
+                        <div class="re__select-btn"><i class="re__icon-chevron-right--sm"></i></div>
+                    </div>
+                    <div id="divFilterCityOptions" data-val="SG" data-tab-project="CN" class="js__filter-location-popup">
+                        <ul></ul>
+                    </div>
+                </div>
+                <div class="re__filter-content-location js__filter-location js__filter-district" data-location="district" data-type="multiple">
+                    <div class="re__search-label">
+                        <label>Quận/Huyện</label>
+                        <span class="re__select-custom"></span>
+                        <div class="re__select-btn"><i class="re__icon-chevron-right--sm"></i></div>
+                    </div>
+                    <div id="divFilterDistrictOptions" data-val="59" data-tab-project="" class="re__multiple js__filter-location-popup">
+                    </div>
+                </div>
+                <div class="re__filter-content-location js__filter-location js__filter-ward" data-location="ward" data-type="multiple">
+                    <div class="re__search-label">
+                        <label>Phường/Xã</label>
+                        <span class="re__select-custom"></span>
+                        <div class="re__select-btn"><i class="re__icon-chevron-right--sm"></i></div>
+                    </div>
+                    <div id="divFilterWardOptions" data-val="" class="re__multiple js__filter-location-popup"></div>
+                </div>
+                <div class="re__filter-content-location js__filter-location js__filter-street" data-location="street" data-type="one">
+                    <div class="re__search-label">
+                        <label>Đường/Phố</label>
+                        <span class="re__select-custom"></span>
+                        <div class="re__select-btn"><i class="re__icon-chevron-right--sm"></i></div>
+                    </div>
+                    <div id="divFilterStreetOptions" data-val="" class="js__filter-location-popup"></div>
+                </div>
+                <div class="re__filter-content-location re__end js__filter-location js__filter-project" data-location="project" data-type="multiple">
+                    <div class="re__search-label">
+                        <label>Dự án</label>
+                        <span class="re__select-custom"></span>
+                        <div class="re__select-btn"><i class="re__icon-chevron-right--sm"></i></div>
+                    </div>
+                    <div id="divFilterProjectOptions" data-val="2667_59" class="re__multiple js__filter-location-popup"></div>
+                </div>
+            </div>
+        </div>
+        <div class="re__custom-body re__search-area js__filter-area" data-min="" data-max="" data-val="-1">
+            <h1 class="re__filter-title">Chọn diện tích<span class="re__close-advance-filter"></span></h1>
+            <div class="filter-search--custom-slider">
+                <input id="txtAreaMinValue" name="areamin" placeholder="Nhỏ nhất"
+                        class="filter-search--min-value" min="0" max="999999" type="number" />
+                        <i class="re__icon-arrow-right--sm"></i>
+                <input id="txtAreaMaxValue" name="areamax" placeholder="Lớn nhất"
+                        class="filter-search--max-value" min="0" max="999999" type="number" />
+                <div class="re__clear"></div>
+                <div class="filter-search--over-hidden">
+                    <div id="area-slider-range" class="filter-search--range" name="rangeInput"></div>
+                </div>
+            </div>
+            <div id="divFilterAreaOptions" class="re__filter-content re__filter-slider">
+                <ul>
+                            <li vl="-1" class="advance-options selected">T&#x1EA5;t c&#x1EA3; di&#x1EC7;n t&#xED;ch</li>
+                            <li vl="1" class="advance-options ">D&#x1B0;&#x1EDB;i 30 m&#xB2;</li>
+                            <li vl="2" class="advance-options ">30 - 50 m&#xB2;</li>
+                            <li vl="3" class="advance-options ">50 - 80 m&#xB2;</li>
+                            <li vl="4" class="advance-options ">80 - 100 m&#xB2;</li>
+                            <li vl="5" class="advance-options ">100 - 150 m&#xB2;</li>
+                            <li vl="6" class="advance-options ">150 - 200 m&#xB2;</li>
+                            <li vl="7" class="advance-options ">200 - 250 m&#xB2;</li>
+                            <li vl="8" class="advance-options ">250 - 300 m&#xB2;</li>
+                            <li vl="9" class="advance-options ">300 - 500 m&#xB2;</li>
+                            <li vl="10" class="advance-options ">Tr&#xEA;n 500 m&#xB2;</li>
+                </ul>
+            </div>
+        </div>
+        <div class="re__custom-body re__search-price js__filter-price" data-min="" data-max="" data-val="-1">
+            <h1 class="re__filter-title">Chọn mức giá<span class="re__close-advance-filter"></span></h1>
+            <div class="filter-search--custom-slider">
+                <input id="txtPriceMinValue" name="pricemin" placeholder="Nhỏ nhất"
+                        class="filter-search--min-value" min="0" max="999999" type="number" />
+                        <i class="re__icon-arrow-right--sm"></i>
+                <input id="txtPriceMaxValue" name="pricemax" placeholder="Lớn nhất"
+                        class="filter-search--max-value" min="0" max="999999" type="number" />
+                <div class="re__clear"></div>
+                <div class="filter-search--over-hidden">
+                    <div id="price-slider-range" class="filter-search--range" name="rangeInput"></div>
+                </div>
+            </div>
+            <div class="re__filter-content re__filter-slider">
+                <div id="divFilterSellPrice" class="">
+                    <ul>
+                                <li vl="-1" class="advance-options selected">T&#x1EA5;t c&#x1EA3; m&#x1EE9;c gi&#xE1;</li>
+                                <li vl="1" class="advance-options ">D&#x1B0;&#x1EDB;i 500 tri&#x1EC7;u</li>
+                                <li vl="2" class="advance-options ">500 - 800 tri&#x1EC7;u</li>
+                                <li vl="3" class="advance-options ">800 tri&#x1EC7;u - 1 t&#x1EF7;</li>
+                                <li vl="4" class="advance-options ">1 - 2 t&#x1EF7;</li>
+                                <li vl="5" class="advance-options ">2 - 3 t&#x1EF7;</li>
+                                <li vl="6" class="advance-options ">3 - 5 t&#x1EF7;</li>
+                                <li vl="7" class="advance-options ">5 - 7 t&#x1EF7;</li>
+                                <li vl="8" class="advance-options ">7 - 10 t&#x1EF7;</li>
+                                <li vl="9" class="advance-options ">10 - 20 t&#x1EF7;</li>
+                                <li vl="10" class="advance-options ">20 - 30 t&#x1EF7;</li>
+                                <li vl="11" class="advance-options ">30 - 40 t&#x1EF7;</li>
+                                <li vl="12" class="advance-options ">40 - 60 t&#x1EF7;</li>
+                                <li vl="13" class="advance-options ">Tr&#xEA;n 60 t&#x1EF7;</li>
+                                <li vl="0" class="advance-options ">Th&#x1ECF;a thu&#x1EAD;n</li>
+                    </ul>
+                </div>
+                <div id="divFilterRentPrice" class="re__hide">
+                    <ul>
+                                <li vl="-1" class="advance-options selected">T&#x1EA5;t c&#x1EA3; m&#x1EE9;c gi&#xE1;</li>
+                                <li vl="1" class="advance-options ">D&#x1B0;&#x1EDB;i 1 tri&#x1EC7;u</li>
+                                <li vl="2" class="advance-options ">1 - 3 tri&#x1EC7;u</li>
+                                <li vl="3" class="advance-options ">3 - 5 tri&#x1EC7;u</li>
+                                <li vl="4" class="advance-options ">5 - 10 tri&#x1EC7;u</li>
+                                <li vl="5" class="advance-options ">10 - 40 tri&#x1EC7;u</li>
+                                <li vl="6" class="advance-options ">40 - 70 tri&#x1EC7;u</li>
+                                <li vl="7" class="advance-options ">70 - 100 tri&#x1EC7;u</li>
+                                <li vl="8" class="advance-options ">Tr&#xEA;n 100 tri&#x1EC7;u</li>
+                                <li vl="0" class="advance-options ">Th&#x1ECF;a thu&#x1EAD;n</li>
+                    </ul>
+                </div>
+                <div id="divFilterProjectPrice" class="re__hide">
+                    <ul>
+                                <li vl="-1" class="advance-options selected">T&#x1EA5;t c&#x1EA3; m&#x1EE9;c gi&#xE1;</li>
+                                <li vl="1" class="advance-options ">D&#x1B0;&#x1EDB;i 5 tri&#x1EC7;u/m&#xB2;</li>
+                                <li vl="2" class="advance-options ">5 - 10 tri&#x1EC7;u/m&#xB2;</li>
+                                <li vl="3" class="advance-options ">10 - 20 tri&#x1EC7;u/m&#xB2;</li>
+                                <li vl="4" class="advance-options ">20 - 35 tri&#x1EC7;u/m&#xB2;</li>
+                                <li vl="5" class="advance-options ">35 - 50 tri&#x1EC7;u/m&#xB2;</li>
+                                <li vl="6" class="advance-options ">50 - 80 tri&#x1EC7;u/m&#xB2;</li>
+                                <li vl="7" class="advance-options ">Tr&#xEA;n 80 tri&#x1EC7;u/m&#xB2;</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="re__custom-body re__search-other js__filter-other">
+            <h1 class="re__filter-title">L&#x1ECD;c th&#xEA;m<span class="re__close-advance-filter"></span></h1>
+            <div class="re__filter-content">
+                <div id="divFilterOther" class="">
+                    <div class="re__sub-title">Số phòng ngủ</div>
+                    <ul class="js__filter-room-options" data-form="filter">
+                                <li class="re__tag advance-options" vl="1">1</li>
+                                <li class="re__tag advance-options" vl="2">2</li>
+                                <li class="re__tag advance-options" vl="3">3</li>
+                                <li class="re__tag advance-options" vl="4">4</li>
+                                <li class="re__tag advance-options" vl="5">&#x2B;5</li>
+                    </ul>
+                    <div class="re__sub-title">Hướng nhà</div>
+                    <ul class="js__filter-direction-options" data-form="filter">
+                                <li class="re__tag advance-options" vl="1">&#x110;&#xF4;ng</li>
+                                <li class="re__tag advance-options" vl="2">T&#xE2;y</li>
+                                <li class="re__tag advance-options" vl="3">Nam</li>
+                                <li class="re__tag advance-options" vl="4">B&#x1EAF;c</li>
+                                <li class="re__tag advance-options" vl="5">&#x110;&#xF4;ng - B&#x1EAF;c</li>
+                                <li class="re__tag advance-options" vl="6">T&#xE2;y - B&#x1EAF;c</li>
+                                <li class="re__tag advance-options" vl="7">T&#xE2;y - Nam</li>
+                                <li class="re__tag advance-options" vl="8">&#x110;&#xF4;ng - Nam</li>
+                    </ul>
+                    <div class="re__sub-title">Nội dung tin có</div>
+                    <ul class="re__end js__filter-media-options" data-form="filter">
+                                <li class="re__tag advance-options" vl="1">H&#xEC;nh &#x1EA3;nh</li>
+                                <li class="re__tag advance-options" vl="2">Video</li>
+                                <li class="re__tag advance-options" vl="4">&#x1EA2;nh 3D &amp; 360&#xB0;</li>
+                    </ul>
+                </div>
+                <div id="divFilterProjectStages" class="re__hide">
+                    <ul class="js__filter-stage-options" data-form="filter">
+                                <li class="re__tag advance-options" vl="1">S&#x1EAF;p m&#x1EDF; b&#xE1;n</li>
+                                <li class="re__tag advance-options" vl="2">&#x110;ang m&#x1EDF; b&#xE1;n</li>
+                                <li class="re__tag advance-options" vl="3">&#x110;&#xE3; b&#xE0;n giao</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="re__custom-body re__search-sort js__filter-sort">
+            <h1 class="re__filter-title">Sắp xếp<span class="re__close-advance-filter"></span></h1>
+            <div class="re__filter-content">
+                <div id="divFilterSort" class="">
+                    <ul>
+                                <li tracking-id="sort-listing-srp"
+                                    tracking-label="type=normal"
+                                    vl="0"
+                                    class="advance-options ">Th&#xF4;ng th&#x1B0;&#x1EDD;ng</li>
+                                <li tracking-id="sort-listing-srp"
+                                    tracking-label="type=newest"
+                                    vl="1"
+                                    class="advance-options selected">Tin m&#x1EDB;i nh&#x1EA5;t</li>
+                                <li tracking-id="sort-listing-srp"
+                                    tracking-label="type=lowest_price"
+                                    vl="2"
+                                    class="advance-options ">Gi&#xE1; th&#x1EA5;p &#x111;&#xEA;&#x301;n cao</li>
+                                <li tracking-id="sort-listing-srp"
+                                    tracking-label="type=highest_price"
+                                    vl="3"
+                                    class="advance-options ">Gi&#xE1; cao &#x111;&#xEA;&#x301;n th&#xE2;&#x301;p</li>
+                                <li tracking-id="sort-listing-srp"
+                                    tracking-label="type=lowest_price_per_m2"
+                                    vl="6"
+                                    class="advance-options ">Gi&#xE1; tr&#xEA;n m&#xB2; th&#x1EA5;p &#x111;&#x1EBF;n cao</li>
+                                <li tracking-id="sort-listing-srp"
+                                    tracking-label="type=highest_price_per_m2"
+                                    vl="7"
+                                    class="advance-options ">Gi&#xE1; tr&#xEA;n m&#xB2; cao &#x111;&#x1EBF;n th&#x1EA5;p</li>
+                                <li tracking-id="sort-listing-srp"
+                                    tracking-label="type=smallest_area"
+                                    vl="4"
+                                    class="advance-options ">Di&#x1EC7;n t&#xED;ch be&#x301; &#x111;&#xEA;&#x301;n l&#x1A1;&#x301;n</li>
+                                <li tracking-id="sort-listing-srp"
+                                    tracking-label="type=biggest_area"
+                                    vl="5"
+                                    class="advance-options ">Di&#x1EC7;n t&#xED;ch l&#x1A1;&#x301;n &#x111;&#xEA;&#x301;n be&#x301;</li>
+                    </ul>
+                </div>
+                <div id="divFilterProjectSort" class="re__hide">
+                    <ul>
+                                <li tracking-id="sort-listing-srp"
+                                    vl="1"
+                                    class="advance-options selected">M&#x1EDB;i nh&#x1EA5;t</li>
+                                <li tracking-id="sort-listing-srp"
+                                    vl="2"
+                                    class="advance-options ">M&#x1EDB;i c&#x1EAD;p nh&#x1EAD;t</li>
+                                <li tracking-id="sort-listing-srp"
+                                    vl="3"
+                                    class="advance-options ">Gi&#xE1; cao nh&#x1EA5;t</li>
+                                <li tracking-id="sort-listing-srp"
+                                    vl="4"
+                                    class="advance-options ">Gi&#xE1; th&#x1EA5;p nh&#x1EA5;t</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="re__custom-footer js__custom-filter-footer">
+            <span class="re__btn re__btn-se-border--md re__reset js__btn-search-reset">Đặt lại</span>
+            <span class="re__btn re__btn-pr-border--md re__apply js__btn-search-apply">
+                Áp dụng<span class="re__text-select"> ・ <span class="js__count-select">0</span> lựa chọn</span>
+            </span>
+            <span class="re__btn re__btn-pr-solid--md re__submit js__btn-search-submit">
+                <span class="filter-search--btn-apply--text">Áp dụng</span>
+                <span class="re__content filter-search--btn-submit--text"><i class="re__icon-search"></i><span class="text">Tìm kiếm</span></span>
+            </span>
+        </div>
+    </div>
+</div>
+    <div class="re__hide" id="domainUserInfo" data-value="https://m.batdongsan.com.vn"></div>
+    <div class="re__hide" id="domainWeb" data-value="https://batdongsan.com.vn"></div>
+    <div class="re__hide" id="domainWebMobile" data-value="https://m.batdongsan.com.vn"></div>
+    <div class="re__hide" id="searchURLInMobile" data-value="/microservice-architecture-router-mobile/Product/ProductSearch/Index"></div>
+    <div class="re__hide" id="getBannerUrl" data-value="/microservice-architecture-router-mobile/Systems/Banner/GetBanners"></div>
+    <div class="re__hide" id="domainStatistic" data-value="https://statistic.batdongsan.com.vn"></div>
+    <div sync-marked-products-url="/Product/MarkedProducts/SyncMarkedProducts"
+         marked-product-ids-sync-time="0.5"></div>
+
+    <script info-params={&quot;detailsProduct&quot;:&quot;pr-details&quot;,&quot;containerProduct&quot;:&quot;pr-container&quot;,&quot;imgProduct&quot;:&quot;pr-img&quot;,&quot;titleProduct&quot;:&quot;pr-title&quot;,&quot;cssServer&quot;:&quot;https://staticfile.batdongsan.com.vn&quot;,&quot;prefixClass&quot;:&quot;re__&quot;,&quot;errorImageWap&quot;:&quot;https://staticfile.batdongsan.com.vn/images/Product/error-image/card-error-image-wap.svg&quot;,&quot;errorImageSmallWap&quot;:&quot;https://staticfile.batdongsan.com.vn/images/Product/error-image/card-error-image-small-wap.svg&quot;,&quot;errorImageCompactWap&quot;:&quot;https://staticfile.batdongsan.com.vn/images/Product/error-image/card-compact-error-image-wap.svg&quot;,&quot;noImageWap&quot;:&quot;https://staticfile.batdongsan.com.vn/images/Product/no-image/card-no-image-wap.svg&quot;,&quot;noImageSmallWap&quot;:&quot;https://staticfile.batdongsan.com.vn/images/Product/no-image/card-no-images-small-wap.svg&quot;,&quot;noImageCompactWap&quot;:&quot;https://staticfile.batdongsan.com.vn/images/Product/no-image/card-compact-no-image-wap.svg&quot;,&quot;errorAvatar&quot;:&quot;https://staticfile.batdongsan.com.vn/images/avatar/default-user-avatar-blue.jpg&quot;,&quot;noImagesSystems&quot;:&quot;https://staticfile.batdongsan.com.vn/images/avatar/no-image.svg&quot;,&quot;noImagesSystemsBackup&quot;:&quot;https://staticfile.batdongsan.com.vn/images/avatar/no-image.png&quot;,&quot;noImagesSystems_Wap&quot;:&quot;https://staticfile.batdongsan.com.vn/images/avatar/no-image_wap.svg&quot;,&quot;noImagesSystemsBackup_Wap&quot;:&quot;https://staticfile.batdongsan.com.vn/images/avatar/no-image_wap.png&quot;,&quot;logoPopupWeb&quot;:&quot;https://staticfile.batdongsan.com.vn/images/logo/logo-vn.svg&quot;} marking-product-service-params={&quot;unmarkProductUrl&quot;:&quot;/Product/MarkedProducts/UnmarkProduct&quot;,&quot;getMarkedProductsByIdsUrl&quot;:&quot;/Product/ProductDetail/GetMarkedListing&quot;,&quot;markedProductsSyncTime&quot;:24,&quot;listingLimit&quot;:50} type="cbbb4fa03f49c1afa13ef0bf-text/javascript"></script>
+
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Common/filestatic.ver1.msvbds.Common.min.js"></script>
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Tracking/filestatic.ver2.msvbds.Tracking.min.js"></script>
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Tracking/filestatic.ver6.msvbds.Tracking.Google.min.js"></script>
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Common/filestatic.ver2.msvbds.Common.Img.min.js"></script>
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/jquery/jquery-2.0.3.min.js"></script>
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/jquery-ui/jquery-ui.min.js"></script>
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/jquery/jQuery.fn.ensureLoadEvent.min.js"></script>
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/filestatic.ver1.msvbds.site.min.js"></script>
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Utilities/filestatic.ver1.msvbds.HandlerCookie.min.js"></script>
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Common/filestatic.ver10.msvbds.MobileApp.Common.min.js"></script>
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Common/Services/filestatic.ver821b7153.msvbds.FrontEnd.MarkingProductsServices.min.js"></script>
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Captcha/filestatic.ver1.msvbds.Captcha.min.js"></script>
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Mobile/Origins/Binnova/filestatic.ver1.msvbds.jquery.ui.touch-punch.min.js"></script>
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Mobile/FormSearch/filestatic.ver821b7153.msvbds.FrontEnd.FormSearch.min.js"></script>
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Product/filestatic.ver821b7153.msvbds.ProductHiddenMobile.min.js"></script>
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/lib/jquery-swiper/js/jquery.touchSwipe.min.js"></script>
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Mobile/Binnova/filestatic.ver2.msvbds.FrontEnd.Layout.MenuFixTop.min.js"></script>
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+        var searchParams = {
+            urlListDistrict: '/Origins/CommonData/GetListDistrictByCity',
+            urlListStreet: '/Origins/CommonData/GetListStreetByDistrict',
+            urlListProject: '/Origins/CommonData/GetListProject',
+            urlListWard: '/Origins/CommonData/GetListWardByDistrict',
+            urlListPrice: '/Origins/CommonData/GetPriceLevelByProductCategory',
+        };
+
+        var formSearch = new formSearch.FormSearch();
+        formSearch.Initialize(searchParams);
+    </script>
+    
+    
+        <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Common/Services/filestatic.ver821b7153.msvbds.FrontEnd.BadReportProductsServices.min.js"></script>
+        <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Common/HelperControllers/filestatic.ver821b7153.msvbds.FrontEnd.CardController.min.js"></script>
+        <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Mobile/Product/filestatic.ver821b7153.msvbds.FrontEnd.Product.List.js"></script>
+        <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Product/filestatic.ver821b7153.msvbds.ProductHiddenMobile.min.js"></script>
+        <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Mobile/PromotedProject/filestatic.ver821b7153.msvbds.FrontEnd.Product.PromotedProject.min.js"></script>
+        <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/lib/jquery-swiper/js/swiper.min.js"></script>
+
+        <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+            var productList = new productList.Content();
+                productList.Initialize({
+                    loadPage: "#loadPage",
+                    btnLoadPage: "#addMore",
+                    urlLoadPage: '/Product/GetPageProductV2/LoadPage',
+                    productCookieName: 'USER_PRODUCT_SEARCH',
+                    productCookieValue: '38|324|SG|59|-1|-1|2667,0',
+                    getMarkedProductsByIdsUrl: '/Product/ProductDetail/GetMarkedListing',
+                    markedProductsSyncTime: 24,
+                    listingLimit: 50
+                });
+        </script>
+    
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Common/filestatic.ver821b7153.msvbds.FrontEnd.BoxSearch.min.js"></script>
+<script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Common/Services/filestatic.ver821b7153.msvbds.FrontEnd.SearchingHistoriesServices.min.js"></script>
+<script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Common/Services/filestatic.ver821b7153.msvbds.FrontEnd.YourLocationServices.min.js"></script>
+<script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Common/Services/filestatic.ver821b7153.msvbds.FrontEnd.SearchingSuggestionServices.min.js"></script>
+<script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Common/Services/filestatic.ver821b7153.msvbds.FrontEnd.LocationsServices.min.js"></script>
+<script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Common/Extensions/filestatic.ver1.msvbds.JQuery.Extensions.min.js"></script>
+<script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Mobile/Product/filestatic.ver821b7153.msvbds.FrontEnd.Product.FilterSearch.min.js"></script>
+
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+        (function callJQuery() {
+            if (window.FrontEnd && window.FrontEnd.Systems && window.FrontEnd.Systems.HomeBinnova) {
+                new window.FrontEnd.Systems.HomeBinnova({});
+            } else {
+                setTimeout(callJQuery, 100)
+            }
+        })();
+    </script>
+        <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Mobile/Origins/Binnova/filestatic.ver821b7153.msvbds.FrontEnd.GAMBannerViewer.min.js"></script>
+
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript" src="https://staticfile.batdongsan.com.vn/js/Mobile/Origins/Binnova/filestatic.ver821b7153.msvbds.FrontEnd.GAMBannerScript.min.js"></script>
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+        var paramsGAMBannerScript = {
+            gamBannerInfos: [{"path":"/22637580558/ca-pub-2351718071633452-tag/Live.BDS.Mobile.Masthead.Sub.AdX","size":"[640, 320]","divId":"sub-all-page-masthead","cssClass":"sub-all-page-masthead","position":"MOBILE_SUB_ALL_PAGE_MASTHEAD_POSITION"},{"path":"/22637580558/Live.BDS/Live.BDS.Mobile.Sub.LDP.Bottom","size":"[300, 250]","divId":"sub-ldp-bottom-id","cssClass":"sub-buttom-ldp","position":"MOBILE_SUB_BOTTOM_LDP_POSITION"}],
+            gamBannerTargets: {"page":"[\u0027Nh\u00E0 \u0111\u1EA5t b\u00E1n\u0027,\u0027B\u00E1n c\u0103n h\u1ED9 chung c\u01B0\u0027]","search_sell_kind":"[\u0027Nh\u00E0 \u0111\u1EA5t b\u00E1n\u0027]","product_for_sell":"[\u0027Nh\u00E0 \u0111\u1EA5t b\u00E1n\u0027,\u0027B\u00E1n c\u0103n h\u1ED9 chung c\u01B0\u0027]","search_province":"[\u0027T\u1EA5t c\u1EA3\u0027,\u0027H\u1ED3 Ch\u00ED Minh\u0027]","search_district":"[\u0027T\u1EA5t c\u1EA3\u0027,\u0027H\u1ED3 Ch\u00ED Minh - Qu\u1EADn 7\u0027]","search_ward":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_street":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_project":"[\u0027T\u1EA5t c\u1EA3\u0027,\u0027C\u0103n h\u1ED9 Ho\u00E0ng Qu\u1ED1c Vi\u1EC7t\u0027]","search_price":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_direction":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_area":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_room":"[\u0027T\u1EA5t c\u1EA3\u0027]","search_media":"[\u0027T\u1EA5t c\u1EA3\u0027]","page_type":"[\u0027listing\u0027]"},
+            refreshAdIds_15Seconds: ["home-mobile-middle-banner-1","home-mobile-middle-banner-2"],
+        };
+
+        gamBannerScript.Initialize(paramsGAMBannerScript);
+    </script>
+            <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+                var paramsGAMBannerScript = {
+                    mobileMasterHeadSlotPrefix: 'home-mobile-master-head',
+                    mobileMasterHeadSlotNumber: 5,
+                };
+
+                gamBannerScript.RegisterEventHandlers(paramsGAMBannerScript);
+            </script>
+                <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+                    googletag.cmd.push(function () { googletag.display('sub-all-page-masthead'); });
+                </script>
+
+    
+
+
+
+
+
+    
+        <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+            window.unlFeatures = [{"feature":"cplus-5106_consumer-sisu","variant":"cplus-5106_consumer-sisu_origin"},{"feature":"Adtech-14_CustomAds","variant":""},{"feature":"Adtech-14_SponsoredListingAds","variant":""},{"feature":"Adtech-1_Mobile_SRP_MastheadBanner","variant":""},{"feature":"adtech-1_gam_integration","variant":""},{"feature":"Adtech-14_PremiumAds","variant":""},{"feature":"cplus-5204_srp-traffic","variant":"origin"},{"feature":"cplus-5076_survey-user-experience-q2","variant":"origin"},{"feature":"CPLUS-5199-call-new-k8s-projectnet-public-api","variant":"origin"},{"feature":"cplus-5215_search_include_sub_project","variant":"origin"}];
+        </script>
+
+    <script type="cbbb4fa03f49c1afa13ef0bf-text/javascript">
+        window.Tracking && window.Tracking.init && window.Tracking.init({ cwv: false, });
+    </script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="cbbb4fa03f49c1afa13ef0bf-|49" defer=""></script><script>(function(){window['__CF$cv$params']={r:'741cd52ce9806ca5',m:'zf5t8p9eAi78xmueYHoxKB5whKql4k6W47I535xRjZ4-1661687462-0-AbDPZNabmfFj8IfHXshm7zRrm97Or4i0yn5o8cnZDVvO2f9b/tYQWKsDeorwPN4M8a4URrO0JJAaLbKfHx7hgQYVGIls3Et2xvcBDt5wZ0+MlCSWnvzO2u45WE7BfP13Y7mCB/2KreddRdqnt1R1AfgHUwPcr3JaNBx3tDtMeH/rTltHPaz111OB3CbCrxvw6A==',s:[0xa8e38ceb23,0x8c7cd1e7f6],}})();</script></body>
+</html>
