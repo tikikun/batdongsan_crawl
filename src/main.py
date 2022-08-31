@@ -1,27 +1,43 @@
 # This is a sample Python script.
-import random
+from multiprocessing import Process, Queue
 from typing import List, Tuple
 
-import jaydebeapi
 import cloudscraper
 from cloudscraper import CloudScraper
-from src.page.handlers import ListingPageHandler
+
 from src.dbconnector.dBConnector import SQLiteConnector
-
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to/ search everywhere for classes, files, tool windows, actions, and settings.
+from src.page.handlers import ListingPageHandler, ProductPageHandler
 
 
-# Press the green button in the gutter to run the script.
+def worker_get_details(q):
+    productPageHandler: ProductPageHandler = ProductPageHandler()
+    while True:
+        url = q.get()
+        print(f'Working on {url}')
+        print(url)
+        query_url = 'https://batdongsan.com.vn' + url
+        print(productPageHandler.set_page(query_url).get_items())
+        print(f'Finished {query_url}')
+
+
 if __name__ == '__main__':
+    url_queues = Queue()
+    process_get_details = Process(target=worker_get_details, args=(url_queues,))
+    process_get_details.start()
     scraper: CloudScraper = cloudscraper.create_scraper()
     listenPageHandler: ListingPageHandler = ListingPageHandler()
-    sqlite_handler: SQLiteConnector =  SQLiteConnector()
+
+    sqlite_handler: SQLiteConnector = SQLiteConnector()
+
     # randomlist: object = random.sample(range(20, 500), 20)
-    for page in range(1,788):
+    for page in range(1, 788):
         print(page)
         crawled_page: str = 'https://batdongsan.com.vn/ban-can-ho-chung-cu-tp-hcm/p{page}?sortValue=1'.format(page=page)
         print(crawled_page)
         result_list: List[Tuple] = listenPageHandler.set_page(crawled_page).get_items()
-        print(result_list)
+        for product in result_list:
+            # put the url into the queue
+            url_queues.put(product[-1])
+
         sqlite_handler.insert_many_bds_data(result_list)
+    process_get_details.join()
