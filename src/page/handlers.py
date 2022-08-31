@@ -1,11 +1,9 @@
-import time
 from typing import List, Tuple
 
 import cloudscraper
 from bs4 import BeautifulSoup, Tag
 from cloudscraper import CloudScraper
 from requests import Response
-from ..dbconnector.dBConnector import SQLiteConnector
 
 
 class ListingPageHandler:
@@ -32,27 +30,29 @@ class ListingPageHandler:
         soup: BeautifulSoup = BeautifulSoup(data.text, 'html.parser')
 
         # print(soup.prettify())
-        info_cards = soup.select('#product-lists-web > div > a > div.re__card-info')
-        for card in info_cards:
-            # All cases will have these
-            title: str = card.select(".re__card-title")[0].text.strip()
-            spans: Tag = card.select(".re__card-config")[0]
-            date: str = card.select('.re__card-contact')[0].select('.re__card-published-info-published-at')[0].attrs[
-                'aria-label']
+        product_lists = soup.select('#product-lists-web > div')
+        for product in product_lists:
+            info_card = product.select('a > div.re__card-info')[0]
+            # getting url
+            url: str = product.select('a')[0].attrs['href']
+            # info card All cases will have these
+            title: str = info_card.select(".re__card-title")[0].text.strip()
+            spans: Tag = info_card.select(".re__card-config")[0]
+            date: str = \
+                info_card.select('.re__card-contact')[0].select('.re__card-published-info-published-at')[0].attrs[
+                    'aria-label']
             # Check case
             try:
                 price: str = spans.select('.re__card-config-price')[0].text
             except IndexError:
-                price: str = None
+                price = None
             try:
                 price_per_m2: str = spans.select('.re__card-config-price_per_m2')[0].text
             except IndexError:
-                price_per_m2: str = None
+                price_per_m2 = None
             try:
                 area: str = spans.select('.re__card-config-area')[0].text
             except IndexError:
-                area: str = None
-
-            SQLiteConnector().insert_bds_data(title, price, price_per_m2, area, date)
-            print('inserted this into db', title, price, price_per_m2, area, date)
+                area = None
+            result.append((title, price, price_per_m2, area, date, url))
         return result

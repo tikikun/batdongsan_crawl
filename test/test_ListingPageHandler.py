@@ -1,6 +1,6 @@
 import unittest
 from unittest import TestCase
-from ..src.page.ListingPageHandler import ListingPageHandler
+from ..src.page.handlers import ListingPageHandler
 
 
 class TestListingPageHandler(TestCase):
