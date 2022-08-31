@@ -1,4 +1,5 @@
 # This is a sample Python script.
+import json
 from multiprocessing import Process, Queue
 from typing import List, Tuple
 
@@ -11,12 +12,14 @@ from src.page.handlers import ListingPageHandler, ProductPageHandler
 
 def worker_get_details(q):
     productPageHandler: ProductPageHandler = ProductPageHandler()
+    sqlite_handler_details: SQLiteConnector = SQLiteConnector()
     while True:
         url = q.get()
         print(f'Working on {url}')
         print(url)
         query_url = 'https://batdongsan.com.vn' + url
-        print(productPageHandler.set_page(query_url).get_items())
+        details_data = productPageHandler.set_page(query_url).get_items()
+        sqlite_handler_details.insert_each_bds_data_details(url, json.dumps(details_data))
         print(f'Finished {query_url}')
 
 
@@ -26,9 +29,7 @@ if __name__ == '__main__':
     process_get_details.start()
     scraper: CloudScraper = cloudscraper.create_scraper()
     listenPageHandler: ListingPageHandler = ListingPageHandler()
-
-    sqlite_handler: SQLiteConnector = SQLiteConnector()
-
+    sqlite_handler_page: SQLiteConnector = SQLiteConnector()
     # randomlist: object = random.sample(range(20, 500), 20)
     for page in range(1, 788):
         print(page)
@@ -39,5 +40,5 @@ if __name__ == '__main__':
             # put the url into the queue
             url_queues.put(product[-1])
 
-        sqlite_handler.insert_many_bds_data(result_list)
+        sqlite_handler_page.insert_many_bds_data(result_list)
     process_get_details.join()

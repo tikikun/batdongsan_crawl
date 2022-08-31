@@ -19,6 +19,11 @@ class SQLiteConnector:
         curs.execute('INSERT INTO bds_data values(?,?,?,?,?);', (title, price, price_per_m2, area, date))
         curs.close()
 
+    def insert_each_bds_data_details(self, url: str, details: str):
+        curs: Cursor = self.conn.cursor()
+        curs.execute('INSERT INTO bds_data_details values(?,?)', (url, details))
+        curs.close()
+
     def insert_many_bds_data(self, result_list: List[Tuple]):
         curs: Cursor = self.conn.cursor()
         curs.executemany('INSERT INTO bds_data values(?,?,?,?,?,?)', result_list)
