@@ -6,12 +6,12 @@ from jaydebeapi import Cursor
 
 class SQLiteConnector:
     def __init__(self):
-        self.database = "/Users/daotuan/PycharmProjects/pythonProject/bds_db.db"
+        self.database = "bds_db.db"
 
         self.conn = jaydebeapi.connect("org.sqlite.JDBC",
                                        f"""jdbc:sqlite:{self.database}""",
                                        None,
-                                       '/Users/daotuan/PycharmProjects/pythonProject/sqlite-jdbc-3.39.2.1.jar')
+                                       'sqlite-jdbc-3.39.2.1.jar')
 
     def insert_each_bds_data(self, title: str, price: str, price_per_m2: str, area: str, date: str, url: str):
         curs: Cursor = self.conn.cursor()
@@ -29,8 +29,27 @@ class SQLiteConnector:
         curs.executemany('INSERT INTO bds_data values(?,?,?,?,?,?)', result_list)
         curs.close()
 
+    def get_task(self, task_name):
+        curs: Cursor = self.conn.cursor()
+        curs.execute("SELECT * FROM bds_data_tasks WHERE name = ?", (task_name,))
+        result: List[Tuple[Any, ...]] = curs.fetchall()
+        curs.close()
+        return result
+
+    def insert_task(self, task_name: str, task_status: str, page: int):
+        curs: Cursor = self.conn.cursor()
+        curs.execute('INSERT INTO bds_data_tasks values(?,?,?)', (task_name, task_status, page))
+        curs.close()
+
+    def update_task(self, task_name: str, task_status: str, page: int):
+        curs: Cursor = self.conn.cursor()
+        curs.execute('UPDATE bds_data_tasks SET status = ?, page = ? WHERE name = ?', (task_status, page, task_name))
+        print("Save the process of task",task_name,task_status,page)
+        curs.close()
+
     def get_all_bds_data(self):
         curs: Cursor = self.conn.cursor()
         curs.execute('select * from bds_data')
         result: List[Tuple[Any, ...]] = curs.fetchall()
+        curs.close()
         return result
