@@ -61,24 +61,20 @@ if __name__ == '__main__':
     if task_status == 'running':
         page = task_page
         while True:
-            try:
-                print(page)
-
-                crawled_page: str = f'https://batdongsan.com.vn/ban-can-ho-chung-cu-tp-hcm/p{page}?sortValue=1'
-                print(crawled_page)
-                result_list: List[Tuple] = listenPageHandler.set_page(crawled_page).get_items()
-                for product in result_list:
-                    queue_id = uuid.uuid1()
-                    queue_url = product[-1]
-                    # put to the database
-                    sqlite_handler_page.insert_queue(task_name, queue_url, queue_id)
-                    # put to the url into the queue
-                    url_queues.put((queue_url, queue_id))
-                sqlite_handler_page.update_task(task_name, 'running', page)
-                sqlite_handler_page.insert_many_bds_data(result_list)
-                page += 1
-            except:
-                print("the end of the loop")
+            print(page)
+            crawled_page: str = f'https://batdongsan.com.vn/ban-can-ho-chung-cu-tp-hcm/p{page}?sortValue=1'
+            print(crawled_page)
+            result_list: List[Tuple] = listenPageHandler.set_page(crawled_page).get_items()
+            for product in result_list:
+                queue_id = str(uuid.uuid1())
+                queue_url = product[-1]
+                # put to the database
+                sqlite_handler_page.insert_queue(task_name, queue_url, queue_id)
+                # put to the url into the queue
+                url_queues.put((queue_url, queue_id))
+            sqlite_handler_page.update_task(task_name, 'running', page)
+            sqlite_handler_page.insert_many_bds_data(result_list)
+            page += 1
         # end the program and specified ending status
         for process in procs_list:
             process.join()
