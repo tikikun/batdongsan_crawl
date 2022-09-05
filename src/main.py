@@ -59,6 +59,15 @@ if __name__ == '__main__':
     task_page: int = task_details[2]
 
     if task_status == 'running':
+        # put pending queue into current queue
+        queue_items = sqlite_handler_page.get_queue(task_name)
+        counter = 0
+        for name, url, queue_id in queue_items:
+            url_queues.put((url, queue_id))
+            print('put item into queue', url, queue_id)
+            print(counter)
+            counter += 1
+
         page = task_page
         while True:
             print(page)
