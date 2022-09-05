@@ -44,7 +44,6 @@ if __name__ == '__main__':
 
     # check if the task is already specified if not create the task with the beginning
     if len(sqlite_handler_page.get_task(task_name)) == 0:
-        start_page = 0
         # set the init task
         print("found no task, we will init a running task")
         sqlite_handler_page.insert_task(task_name, 'running', 1)
@@ -56,16 +55,22 @@ if __name__ == '__main__':
     task_page: int = task_details[2]
 
     if task_status == 'running':
-        for page in range(task_page, 788):
-            print(page)
-            crawled_page: str = f'https://batdongsan.com.vn/ban-can-ho-chung-cu-tp-hcm/p{page}?sortValue=1'
-            print(crawled_page)
-            result_list: List[Tuple] = listenPageHandler.set_page(crawled_page).get_items()
-            for product in result_list:
-                # put the url into the queue
-                url_queues.put(product[-1])
-            sqlite_handler_page.update_task(task_name, 'running', page)
-            sqlite_handler_page.insert_many_bds_data(result_list)
+        page = task_page
+        while True:
+            try:
+                print(page)
+
+                crawled_page: str = f'https://batdongsan.com.vn/ban-can-ho-chung-cu-tp-hcm/p{page}?sortValue=1'
+                print(crawled_page)
+                result_list: List[Tuple] = listenPageHandler.set_page(crawled_page).get_items()
+                for product in result_list:
+                    # put the url into the queue
+                    url_queues.put(product[-1])
+                sqlite_handler_page.update_task(task_name, 'running', page)
+                sqlite_handler_page.insert_many_bds_data(result_list)
+                page += 1
+            except:
+                print("the end of the loop")
         # end the program and specified ending status
         for process in procs_list:
             process.join()
