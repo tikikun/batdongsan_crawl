@@ -1,5 +1,6 @@
 # This is a sample Python script.
 import json
+import uuid
 from multiprocessing import Process, Queue
 from typing import List, Tuple
 
@@ -10,18 +11,21 @@ from src.dbconnector.dBConnector import SQLiteConnector
 from src.page.handlers import ListingPageHandler, ProductPageHandler
 
 
-def worker_get_details(q):
+def worker_get_details(q, task_name):
     productPageHandler: ProductPageHandler = ProductPageHandler()
     sqlite_handler_details: SQLiteConnector = SQLiteConnector()
     while True:
         print(__name__)
-        url = q.get()
+        queue_dat = q.get()
+        url = queue_dat[0]
+        queue_id = queue_dat[1]
         print(f'Working on {url}')
         print(url)
         query_url = 'https://batdongsan.com.vn' + url
         details_data = productPageHandler.set_page(query_url).get_items()
         sqlite_handler_details.insert_each_bds_data_details(url, json.dumps(details_data, ensure_ascii=False))
         print(f'Finished {query_url}')
+        sqlite_handler_details.remove_queue(task_name, queue_id)
 
 
 if __name__ == '__main__':
@@ -33,7 +37,7 @@ if __name__ == '__main__':
     url_queues = Queue()
     procs_list = []
     for i in range(8):
-        procs_list.append(Process(target=worker_get_details, args=(url_queues,)))
+        procs_list.append(Process(target=worker_get_details, args=(url_queues, task_name)))
     for proccess in procs_list:
         proccess.start()
 
@@ -64,8 +68,12 @@ if __name__ == '__main__':
                 print(crawled_page)
                 result_list: List[Tuple] = listenPageHandler.set_page(crawled_page).get_items()
                 for product in result_list:
-                    # put the url into the queue
-                    url_queues.put(product[-1])
+                    queue_id = uuid.uuid1()
+                    queue_url = product[-1]
+                    # put to the database
+                    sqlite_handler_page.insert_queue(task_name, queue_url, queue_id)
+                    # put to the url into the queue
+                    url_queues.put((queue_url, queue_id))
                 sqlite_handler_page.update_task(task_name, 'running', page)
                 sqlite_handler_page.insert_many_bds_data(result_list)
                 page += 1

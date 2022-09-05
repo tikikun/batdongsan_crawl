@@ -44,7 +44,18 @@ class SQLiteConnector:
     def update_task(self, task_name: str, task_status: str, page: int):
         curs: Cursor = self.conn.cursor()
         curs.execute('UPDATE bds_data_tasks SET status = ?, page = ? WHERE name = ?', (task_status, page, task_name))
-        print("Save the process of task",task_name,task_status,page)
+        print("Save the process of task", task_name, task_status, page)
+        curs.close()
+
+    def insert_queue(self, task_name: str, url: str, queue_id: str):
+        curs: Cursor = self.conn.cursor()
+        curs.execute('INSERT INTO bds_data_queues values(?,?,?)', (task_name, url, queue_id))
+        curs.close()
+
+    def remove_queue(self, task_name: str, url: str, queue_id: str):
+        curs: Cursor = self.conn.cursor()
+        curs.execute('DELETE FROM bds_data_queues WHERE queue_id = ?', (queue_id,))
+        print("Delete the item ", queue_id, "with", url, "from the task list")
         curs.close()
 
     def get_all_bds_data(self):
