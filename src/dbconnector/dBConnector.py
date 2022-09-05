@@ -52,6 +52,13 @@ class SQLiteConnector:
         curs.execute('INSERT INTO bds_data_queues values(?,?,?)', (task_name, url, queue_id))
         curs.close()
 
+    def get_queue(self, task_name: str):
+        curs: Cursor = self.conn.cursor()
+        curs.execute("SELECT * FROM bds_data_queues WHERE task_name = ?", (task_name,))
+        result: List[Tuple[Any, ...]] = curs.fetchall()
+        curs.close()
+        return result
+
     def remove_queue(self, url: str, queue_id: str):
         curs: Cursor = self.conn.cursor()
         curs.execute('DELETE FROM bds_data_queues WHERE queue_id = ?', (queue_id,))
