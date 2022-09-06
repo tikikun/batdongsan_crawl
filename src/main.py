@@ -26,7 +26,7 @@ def worker_get_details(q, task_name):
         sqlite_handler_details.remove_queue(task_name, queue_id)
 
 
-if __name__ == '__main__':
+def main():
     # boilerplate for the task
     task_name = 'query_bds_task'
     crawled_page: str = 'https://batdongsan.com.vn/ban-can-ho-chung-cu-tp-hcm/p{page}?sortValue=1'
@@ -52,7 +52,7 @@ if __name__ == '__main__':
     if len(sqlite_handler_page.get_task(task_name)) == 0:
         # set the init task
         print("found no task, we will init a running task")
-        sqlite_handler_page.insert_task(task_name, 'running', 0) # zero because there was no page crawled
+        sqlite_handler_page.insert_task(task_name, 'running', 0)  # zero because there was no page crawled
 
     # fetch the task detail after init, or if page len != 0 -> fetch the current task details
     task_details = sqlite_handler_page.get_task(task_name)[0]
@@ -72,7 +72,7 @@ if __name__ == '__main__':
 
         page = task_page
         while page <= max_page:
-            #because the task page is already crawled therefore we need to turn next page first
+            # because the task page is already crawled therefore we need to turn next page first
             page += 1
             if page > max_page:
                 print('turn to non exist page break here')
@@ -97,13 +97,17 @@ if __name__ == '__main__':
             print('wait to finish all the pending tasks for workers')
             time.sleep(1)
         for process in procs_list:
-            print(' close proccess:',process)
+            print(' close proccess:', process)
             process.terminate()
         print('is it really the end?')
-        #finshed the job after join on the sub proccess and write record
-        sqlite_handler_page.update_task(task_name,'finished',page)
+        # finshed the job after join on the sub proccess and write record
+        sqlite_handler_page.update_task(task_name, 'finished', page)
     else:
         print('the task is not running, it must be old task or ended task -> you need to build update new task flow ')
         exit()
 
     sqlite_handler_page.update_task(task_name, 'finished', page)
+
+
+if __name__ == '__main__':
+    main()
