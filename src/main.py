@@ -1,11 +1,9 @@
 # This is a sample Python script.
 import json
+import time
 import uuid
 from multiprocessing import Process, Queue
 from typing import List, Tuple
-
-import cloudscraper
-from cloudscraper import CloudScraper
 
 from src.dbconnector.dBConnector import SQLiteConnector
 from src.page.handlers import ListingPageHandler, ProductPageHandler
@@ -30,7 +28,7 @@ def worker_get_details(q, task_name):
 
 if __name__ == '__main__':
     # boilerplate for the task
-    task_name = 'second_task'
+    task_name = 'query_bds_task'
     crawled_page: str = 'https://batdongsan.com.vn/ban-can-ho-chung-cu-tp-hcm/p{page}?sortValue=1'
 
     # start details getting proccesses
@@ -43,15 +41,18 @@ if __name__ == '__main__':
         proccess.start()
 
     # setup scraper and handler for main proccess
-    scraper: CloudScraper = cloudscraper.create_scraper()
     listenPageHandler: ListingPageHandler = ListingPageHandler()
     sqlite_handler_page: SQLiteConnector = SQLiteConnector()
+
+    # get max page
+    max_page: int = listenPageHandler.set_page(crawled_page.format(page='1')).get_max_page()
+    print(max_page, 'this is the max page')
 
     # check if the task is already specified if not create the task with the beginning
     if len(sqlite_handler_page.get_task(task_name)) == 0:
         # set the init task
         print("found no task, we will init a running task")
-        sqlite_handler_page.insert_task(task_name, 'running', 1)
+        sqlite_handler_page.insert_task(task_name, 'running', 0) # zero because there was no page crawled
 
     # fetch the task detail after init, or if page len != 0 -> fetch the current task details
     task_details = sqlite_handler_page.get_task(task_name)[0]
@@ -70,7 +71,12 @@ if __name__ == '__main__':
             counter += 1
 
         page = task_page
-        while True:
+        while page <= max_page:
+            #because the task page is already crawled therefore we need to turn next page first
+            page += 1
+            if page > max_page:
+                print('turn to non exist page break here')
+                break
             print(page)
             crawled_page = crawled_page.format(page=page)
             print(crawled_page)
@@ -84,10 +90,18 @@ if __name__ == '__main__':
                 url_queues.put((queue_url, queue_id))
             sqlite_handler_page.update_task(task_name, 'running', page)
             sqlite_handler_page.insert_many_bds_data(result_list)
-            page += 1
+
+        print('program end?')
         # end the program and specified ending status
+        while len(sqlite_handler_page.get_queue(task_name)) > 0:
+            print('wait to finish all the pending tasks for workers')
+            time.sleep(1)
         for process in procs_list:
-            process.join()
+            print(' close proccess:',process)
+            process.terminate()
+        print('is it really the end?')
+        #finshed the job after join on the sub proccess and write record
+        sqlite_handler_page.update_task(task_name,'finished',page)
     else:
         print('the task is not running, it must be old task or ended task -> you need to build update new task flow ')
 

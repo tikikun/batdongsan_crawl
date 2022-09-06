@@ -57,6 +57,25 @@ class ListingPageHandler:
             result.append((title, price, price_per_m2, area, date, url))
         return result
 
+    def get_max_page(self) -> int:
+        result = self.__get_max_page()
+        if result is None:
+            return self.get_max_page()
+        return result
+
+    def __get_max_page(self) -> int:
+        scraper: CloudScraper = cloudscraper.create_scraper()
+        scraper: CloudScraper = scraper
+        data: Response = scraper.get(self.page)
+        data.encoding = 'utf-8'
+        print(data.status_code)
+        soup: BeautifulSoup = BeautifulSoup(data.text, 'html.parser')
+        try:
+            total_page: int = int(soup.select('#listing-page-info')[0].attrs['data-total-page'])
+        except IndexError:
+            return None
+        return total_page
+
 
 class ProductPageHandler:
     def __init__(self):
