@@ -104,5 +104,6 @@ if __name__ == '__main__':
         sqlite_handler_page.update_task(task_name,'finished',page)
     else:
         print('the task is not running, it must be old task or ended task -> you need to build update new task flow ')
+        exit()
 
     sqlite_handler_page.update_task(task_name, 'finished', page)
