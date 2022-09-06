@@ -35,7 +35,7 @@ def main(latest_list: List):
     procceses = 8
     url_queues = Queue()
     procs_list = []
-    for i in range(8):
+    for i in range(20):
         procs_list.append(Process(target=worker_get_details, args=(url_queues, task_name)))
     for proccess in procs_list:
         proccess.start()
