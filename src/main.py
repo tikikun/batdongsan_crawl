@@ -30,7 +30,8 @@ def worker_get_details(q, task_name):
 
 if __name__ == '__main__':
     # boilerplate for the task
-    task_name = 'query_bds_task'
+    task_name = 'second_task'
+    crawled_page: str = 'https://batdongsan.com.vn/ban-can-ho-chung-cu-tp-hcm/p{page}?sortValue=1'
 
     # start details getting proccesses
     procceses = 8
@@ -71,7 +72,7 @@ if __name__ == '__main__':
         page = task_page
         while True:
             print(page)
-            crawled_page: str = f'https://batdongsan.com.vn/ban-can-ho-chung-cu-tp-hcm/p{page}?sortValue=1'
+            crawled_page = crawled_page.format(page=page)
             print(crawled_page)
             result_list: List[Tuple] = listenPageHandler.set_page(crawled_page).get_items()
             for product in result_list:
