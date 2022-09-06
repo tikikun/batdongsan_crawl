@@ -26,11 +26,11 @@ def worker_get_details(q, task_name):
         sqlite_handler_details.remove_queue(task_name, queue_id)
 
 
-def main():
+def main(latest_list: List):
     # boilerplate for the task
     task_name = 'query_bds_task'
     crawled_page: str = 'https://batdongsan.com.vn/ban-can-ho-chung-cu-tp-hcm/p{page}?sortValue=1'
-
+    print('this is the latest list',latest_list)
     # start details getting proccesses
     procceses = 8
     url_queues = Queue()
@@ -81,13 +81,21 @@ def main():
             crawled_page = crawled_page.format(page=page)
             print(crawled_page)
             result_list: List[Tuple] = listenPageHandler.set_page(crawled_page).get_items()
+            saw_repeated_url = False
             for product in result_list:
                 queue_id = str(uuid.uuid1())
                 queue_url = product[-1]
+                print('this is url for queue test',queue_url)
+                if queue_url in latest_list:
+                    saw_repeated_url = True
                 # put to the database
                 sqlite_handler_page.insert_queue(task_name, queue_url, queue_id)
                 # put to the url into the queue
                 url_queues.put((queue_url, queue_id))
+            if saw_repeated_url:
+                print('saw repeated url, probably on retry we set status to finished')
+                sqlite_handler_page.update_task(task_name,'finished',max_page)
+                break
             sqlite_handler_page.update_task(task_name, 'running', page)
             sqlite_handler_page.insert_many_bds_data(result_list)
 
@@ -102,12 +110,15 @@ def main():
         print('is it really the end?')
         # finshed the job after join on the sub proccess and write record
         sqlite_handler_page.update_task(task_name, 'finished', page)
+    elif task_status == 'finished':
+        print(task_status, 'because the task is done we will get latest url list')
+        sqlite_handler_page.update_task(task_name,'running',0)
+        return main(sqlite_handler_page.get_top_latest_20_urls())
     else:
-        print('the task is not running, it must be old task or ended task -> you need to build update new task flow ')
-        exit()
+        raise Exception('task status is not found ')
 
     sqlite_handler_page.update_task(task_name, 'finished', page)
 
 
 if __name__ == '__main__':
-    main()
+    main([])

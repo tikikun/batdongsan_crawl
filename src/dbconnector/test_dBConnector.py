@@ -16,3 +16,6 @@ class TestSQLiteConnector(TestCase):
 
     def test_not_found(self):
         assert len(SQLiteConnector().get_task('thang nao')) == 0
+
+    def test_get_top_20(self):
+        print(SQLiteConnector().get_top_latest_20_urls())

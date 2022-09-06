@@ -71,3 +71,11 @@ class SQLiteConnector:
         result: List[Tuple[Any, ...]] = curs.fetchall()
         curs.close()
         return result
+
+    def get_top_latest_20_urls(self):
+        curs: Cursor = self.conn.cursor()
+        curs.execute('select url from bds_data order by rowid desc limit 20')
+        result: List[Tuple] = curs.fetchall()
+        result: List = [x[0] for x in result]
+        curs.close()
+        return result
